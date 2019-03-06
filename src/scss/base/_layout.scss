@@ -12,8 +12,10 @@
   margin-#{$left}: auto;
   padding-#{$left}: $grid-space;
   padding-#{$right}: $grid-space;
-
   max-width: $space * 40;
+  &--main {
+    padding-top: $space;
+  }
 }
 //[4] Rows
 .row {

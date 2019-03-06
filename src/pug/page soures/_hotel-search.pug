@@ -13,34 +13,19 @@
     horizontalSm : true,
   }
 
-section.section
-  .container
-    h2.section__mainTitle Prosthetic & Orthotic Services
-    .sub-section-title
-      h4.sub-section-title__title #{data.sections.titels[2]}
-      .sub-section-title__list
-        -for(i =0; i <= 2; i++)
-          -if(i==0){activeClass="sub-section-title__listItem--active"}else{activeClass=""}
-          a.sub-section-title__listItem(class=activeClass, href=data.sections.sub[i].link) #{data.sections.sub[i].name}
-    .row  
-      -var iconType = ["sound","image","play"]
-      -for(i =0; i <= 2; i++)
+.container.container--main
+
+  .row  
+    .col-xs-4
+      .placeholder.placeholder--title.col-xs-12
+      .placeholder.placeholder--title.col-xs-12
+      .placeholder.placeholder--title.col-xs-12
+      .placeholder.placeholder--title.col-xs-12
+      .placeholder.placeholder--title.col-xs-12
+    .col-xs-8
+
+      -for(i =0; i <= data.content.length-1; i++)
         -
-          var post = {
-            img:data.content[i].img,
-            caption:data.content[i].title,
-            abstract:data.content[i].abstract,
-            icon:{
-              state:true,
-              name:iconType[i]
-            },
-            card:true,
-            cardBounded:true,
-            horizontal:false,
-            over:false,
-            date:false,
-            padge:true
-          }
-        .col-ls-6.col-md-4
-          include ../components/_basic-post-view.pug
+          var hotel= data.content[i]
+        include ../components/_hotel-list-item.pug
       .clearfix

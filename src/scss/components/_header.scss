@@ -13,11 +13,13 @@ body {
   @include shadow(2);
   display: flex;
   justify-content: center;
+  z-index: 10;
   &__container {
-    flex-basis: 900px;
+    flex-basis: $space * 40;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 0 $space/2;
   }
   &__logo {
     max-height: $space;

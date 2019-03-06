@@ -1,0 +1,31 @@
+
+-
+  var hotelName = hotel.summary.hotelName;
+  var address = hotel.location.address;
+  var image = hotel.image[0].url;
+  var rating = hotel.summary.score;
+  var lowRate = hotel.summary.lowRate;
+  var highRate = hotel.summary.highRate;
+section.hotel
+  .hotel__img 
+    img(src=image)
+  .hotel__content
+    h4.hotel__name #{hotelName}
+    .hotel__rating
+      -for(var rate =0; rate < 5; rate++)
+        img.hotel__rating-img(src =`img/${rate+1<=Math.floor(rating)?'starfilled':'starfilled-empty'}.png`)
+    span.hotel__address
+      -var icon = {case:'pin',addClass:'hotel__address-icon'}
+        include ../shared/_icon.pug
+      | #{address}
+  .hotel__action
+    - let precent = ((highRate-lowRate)/highRate)*100
+    - let discont = Math.floor(precent)+'%';
+    span.hotel__discount #{discont} #{rtl?'خصم':'OFF'}
+    strong.hotel__price #{lowRate}
+    a.hotel__cta(href="") #{rtl?'عرض الغرف':'View Rooms'}
+
+
+-
+  hotel={}
+  
