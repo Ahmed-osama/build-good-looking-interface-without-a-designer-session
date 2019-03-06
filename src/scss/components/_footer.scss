@@ -1,0 +1,59 @@
+.main-footer{
+	background:$dviderColor;
+	border-top:1px solid $dviderColor;
+	color:rgba(255,255,255,0.8);
+	padding:$space/2 $space $space/2 2*$space;
+	flex-direction:column;
+	text-align: center	;
+	clear: both;
+	@include mediaMin(768px) {
+		text-align: $left	;
+		display: flex;
+		flex-direction:row;
+	}
+	&__logo{
+		img{
+			max-height: 40px;
+		}
+		@include mediaMin(768px) {
+			margin-#{$right}: 	20px;
+		}
+	}
+	&__nav{
+		flex-grow:1;
+		margin-top:20px;
+		margin-bottom:20px;
+		a{
+			color:$primaryText;
+			font-family:$titleFont;
+			vertical-align: middle	;
+			display: block;
+			padding: 10px;
+			font-weight: 400;
+			& + a {
+				border-top:1px solid rgba(255,255,255,0.1);
+			}
+			
+			&:hover{
+				color:$primaryColor;
+			}
+		}
+		@include mediaMin(768px) {
+			margin-top:0;
+			margin-bottom:0;
+			a{
+				border: none;
+				padding: 0;
+				margin-#{$right}: 20px;
+				line-height: 40px;
+				display: inline-block	;
+				& + a {
+					border-top:none;
+				}
+			}
+		}
+	}
+	&__socials{
+		
+	}
+}

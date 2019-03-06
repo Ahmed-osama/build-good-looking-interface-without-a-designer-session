@@ -1,0 +1,11 @@
+header.main-header
+  .main-header__container
+    a.main-header__logo(href=data.nav.index.link)
+    
+      img(src="img/logo.svg")
+    .main-header__sideMenu#headerSidemenu
+      nav.main-header__nav
+          a.main-header__nav-item(href="#") #{rtl?"فنادق":"Hotel"}
+          a.main-header__nav-item(href="#") #{rtl?"طيران":"FLights"}
+          a.main-header__nav-item(href="#") #{rtl?"عطلات":"Packages"}
+          a.main-header__nav-item(href="#") #{rtl?"عروض":"Offers"}

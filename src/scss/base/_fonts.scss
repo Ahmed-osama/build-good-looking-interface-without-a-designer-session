@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "tajawal";
+  src: url("fonts/Tajawal-Regular.ttf");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "tajawal";
+  src: url("fonts/Tajawal-ExtraBold.ttf");
+  font-weight: 400;
+}
+
+body {
+  font-size: 1rem;
+  font-family: $bodyFont;
+  line-height: $lineHeight;
+  font-weight: 400;
+}
+@each $num in 1, 2, 3, 4, 5, 6 {
+  h#{$num} {
+    font-family: $titleFont;
+    font-weight: 300;
+    -webkit-margin-before: 0px;
+    -webkit-margin-after: 0px;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+  }
+}

@@ -1,0 +1,4505 @@
+{
+  "nav": {
+    "index": {
+      "name": "home",
+      "link": "index-en.html"
+    },
+    "lang": {
+      "name": "ع",
+      "link": "index-ar.html"
+    },
+    "icons": {
+      "name": "icons",
+      "link": "icons-en.html"
+    },
+    "guide": {
+      "name": "Guide",
+      "link": "guide-ar.html"
+    }
+  },
+  "cta": {
+    "title": "Rahala Tour Guide",
+    "btn": "Explore"
+  },
+  "sections": {
+    "titels": [
+      "travel for tourism",
+      "travel for education",
+      "travel for work",
+      "Immegration"
+    ],
+    "sub": [
+      {
+        "name": "Chances",
+        "link": "section.html"
+      },
+      {
+        "name": "Tips",
+        "link": "section.html"
+      },
+      {
+        "name": "Experinces",
+        "link": "section.html"
+      }
+    ]
+  },
+
+  "social": [
+    {
+      "class": "facebook",
+      "icon": "mdi-facebook"
+    },
+    {
+      "class": "twitter",
+      "icon": "mdi-twitter"
+    },
+    {
+      "class": "youtube",
+      "icon": "mdi-youtube-play"
+    },
+    {
+      "class": "googlePlus",
+      "icon": "mdi-youtube-play"
+    },
+    {
+      "class": "Instagram",
+      "icon": "mdi-youtube-play"
+    }
+  ],
+  "guidelist": [
+    "getting Excited",
+    "raising money",
+    "security",
+    "booking plane ticket",
+    "getting ready",
+    "having cheap hotel",
+    "coupls travel tips",
+    "single female travel"
+  ],
+  "content": [
+    {
+      "hotelId": 4124820,
+      "topPick": null,
+      "trustYouReviews": {
+        "score": "8.7",
+        "sourcesCount": 20,
+        "reviewsCount": 1147,
+        "scoreDescription": "Excellent",
+        "scoreColor": "#129911"
+      },
+      "summary": {
+        "hotelName": "Holiday Inn Express London - Epsom Downs",
+        "lowRate": 725.77,
+        "highRate": 983.98,
+        "priority": 0,
+        "score": 4.49873,
+        "distance": 23.470412413214436,
+        "distanceInMeters": 23470.41,
+        "distanceScore": 0.061184,
+        "priorityScore": 0,
+        "propertyType": "Motel",
+        "pricePerNight": 362.885,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 23470.41,
+            "descriptionEn": "<span>23 km </span>from city center of London",
+            "description": "<span>23 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>23 كم </span>من مركز مدينة London",
+            "km": 23.470412413214436,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "Langley Vale Road, Epsom, KT18 5LG, United Kingdom",
+        "shortAddress": "Near Epsom Downs Racecourse, England",
+        "latitude": 51.31325,
+        "longitude": -0.25975
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4124820/1_1.jpg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "hotelRating",
+          "vendor": "TripAdvisor",
+          "value": "4.5",
+          "imageUrl": "https://carsolizeprod.blob.core.windows.net/images/TrustYou/4_5.png",
+          "reviewsCount": 1185
+        },
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "3",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": 9327,
+        "propertyTypeId": 14,
+        "chainId": 1172,
+        "amenities": {
+          "roomAmenity": [
+            {
+              "code": 2006,
+              "desc": "Adjoining rooms"
+            },
+            {
+              "code": 2007,
+              "desc": "Air conditioning"
+            },
+            {
+              "code": 2038,
+              "desc": "Bathroom"
+            },
+            {
+              "code": 2138,
+              "desc": "Cribs Available"
+            },
+            {
+              "code": 2185,
+              "desc": "Free Wifi"
+            },
+            {
+              "code": 2197,
+              "desc": "Hairdryer"
+            },
+            {
+              "code": 2204,
+              "desc": "Housekeeping"
+            },
+            {
+              "code": 2323,
+              "desc": "Shower"
+            },
+            {
+              "code": 2383,
+              "desc": "Television"
+            },
+            {
+              "code": 2477,
+              "desc": "Safe"
+            },
+            {
+              "code": 10007,
+              "desc": "Toilet paper"
+            },
+            {
+              "code": 10041,
+              "desc": "TV"
+            }
+          ],
+          "propertyAmenity": [
+            {
+              "code": 2032,
+              "desc": "Bar/Snack/Cafen"
+            },
+            {
+              "code": 2035,
+              "desc": "Bars"
+            },
+            {
+              "code": 2067,
+              "desc": "Central heating"
+            },
+            {
+              "code": 2125,
+              "desc": "Coffee"
+            },
+            {
+              "code": 2153,
+              "desc": "Dry cleaning service"
+            },
+            {
+              "code": 2163,
+              "desc": "Express Check-in/Check-out"
+            },
+            {
+              "code": 2166,
+              "desc": "Facilities for disabled"
+            },
+            {
+              "code": 2168,
+              "desc": "FAX"
+            },
+            {
+              "code": 2201,
+              "desc": "Horseback Riding"
+            },
+            {
+              "code": 2230,
+              "desc": "Lifts"
+            },
+            {
+              "code": 2238,
+              "desc": "Luggage storage"
+            },
+            {
+              "code": 2254,
+              "desc": "Multilingual staff"
+            },
+            {
+              "code": 2257,
+              "desc": "Newspapers"
+            },
+            {
+              "code": 2266,
+              "desc": "Non smoking rooms"
+            },
+            {
+              "code": 2267,
+              "desc": "Non-smoking throughout"
+            },
+            {
+              "code": 2281,
+              "desc": "Pets Not Allowed"
+            },
+            {
+              "code": 2386,
+              "desc": "Vending machines"
+            },
+            {
+              "code": 2403,
+              "desc": "WIFI"
+            },
+            {
+              "code": 2421,
+              "desc": "Breakfast"
+            },
+            {
+              "code": 2425,
+              "desc": "Parking"
+            },
+            {
+              "code": 2450,
+              "desc": "Hiking area"
+            },
+            {
+              "code": 10170,
+              "desc": "Cycling"
+            },
+            {
+              "code": 10215,
+              "desc": "24 Hour Front Desk"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4165296,
+      "topPick": null,
+      "trustYouReviews": {
+        "score": "7.3",
+        "sourcesCount": 16,
+        "reviewsCount": 1353,
+        "scoreDescription": "good",
+        "scoreColor": "#A1CC4F"
+      },
+      "summary": {
+        "hotelName": "The Continental Hotel, Heathrow",
+        "lowRate": 659.27,
+        "highRate": 1029.86,
+        "priority": 0,
+        "score": 3.49963,
+        "distance": 17.051706426129346,
+        "distanceInMeters": 17051.7,
+        "distanceScore": 0.317932,
+        "priorityScore": 0,
+        "propertyType": "Hotel",
+        "pricePerNight": 329.635,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 17051.7,
+            "descriptionEn": "<span>17 km </span>from city center of London",
+            "description": "<span>17 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>17 كم </span>من مركز مدينة London",
+            "km": 17.051706426129346,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "29-31 Lampton Road, Hounslow, TW3 1JA, United Kingdom",
+        "shortAddress": "Waltham Forest, Hounslow",
+        "latitude": 51.46962,
+        "longitude": -0.36618
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4165296/the_continental-hotel.jpg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "hotelRating",
+          "vendor": "TripAdvisor",
+          "value": "3.5",
+          "imageUrl": "https://carsolizeprod.blob.core.windows.net/images/TrustYou/3_5.png",
+          "reviewsCount": 1357
+        },
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "4",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": 68222,
+        "propertyTypeId": 1,
+        "chainId": 655,
+        "amenities": {
+          "roomAmenity": [
+            {
+              "code": 2001,
+              "desc": "Room Service"
+            },
+            {
+              "code": 2006,
+              "desc": "Adjoining rooms"
+            },
+            {
+              "code": 2007,
+              "desc": "Air conditioning"
+            },
+            {
+              "code": 2037,
+              "desc": "Bathrobe"
+            },
+            {
+              "code": 2038,
+              "desc": "Bathroom"
+            },
+            {
+              "code": 2138,
+              "desc": "Cribs Available"
+            },
+            {
+              "code": 2180,
+              "desc": "Free Internet access (Lounge)"
+            },
+            {
+              "code": 2185,
+              "desc": "Free Wifi"
+            },
+            {
+              "code": 2197,
+              "desc": "Hairdryer"
+            },
+            {
+              "code": 2213,
+              "desc": "Iron and board"
+            },
+            {
+              "code": 2250,
+              "desc": "Minibar"
+            },
+            {
+              "code": 2323,
+              "desc": "Shower"
+            },
+            {
+              "code": 2335,
+              "desc": "Sofa bed"
+            },
+            {
+              "code": 2365,
+              "desc": "Toiletries"
+            },
+            {
+              "code": 2383,
+              "desc": "Television"
+            },
+            {
+              "code": 2477,
+              "desc": "Safe"
+            },
+            {
+              "code": 10007,
+              "desc": "Toilet paper"
+            }
+          ],
+          "propertyAmenity": [
+            {
+              "code": 2035,
+              "desc": "Bars"
+            },
+            {
+              "code": 2067,
+              "desc": "Central heating"
+            },
+            {
+              "code": 2125,
+              "desc": "Coffee"
+            },
+            {
+              "code": 2130,
+              "desc": "Concierge"
+            },
+            {
+              "code": 2153,
+              "desc": "Dry cleaning service"
+            },
+            {
+              "code": 2163,
+              "desc": "Express Check-in/Check-out"
+            },
+            {
+              "code": 2164,
+              "desc": "Private check-in/check-out"
+            },
+            {
+              "code": 2166,
+              "desc": "Facilities for disabled"
+            },
+            {
+              "code": 2168,
+              "desc": "FAX"
+            },
+            {
+              "code": 2196,
+              "desc": "Gym"
+            },
+            {
+              "code": 2204,
+              "desc": "Housekeeping"
+            },
+            {
+              "code": 2207,
+              "desc": "Indoor pool"
+            },
+            {
+              "code": 2228,
+              "desc": "Laundry Service"
+            },
+            {
+              "code": 2230,
+              "desc": "Lifts"
+            },
+            {
+              "code": 2238,
+              "desc": "Luggage storage"
+            },
+            {
+              "code": 2239,
+              "desc": "Maid service"
+            },
+            {
+              "code": 2241,
+              "desc": "Massage"
+            },
+            {
+              "code": 2254,
+              "desc": "Multilingual staff"
+            },
+            {
+              "code": 2266,
+              "desc": "Non smoking rooms"
+            },
+            {
+              "code": 2267,
+              "desc": "Non-smoking throughout"
+            },
+            {
+              "code": 2271,
+              "desc": "Hot tub/jacuzzi"
+            },
+            {
+              "code": 2280,
+              "desc": "Pets allowed"
+            },
+            {
+              "code": 2304,
+              "desc": "Restaurant(s)"
+            },
+            {
+              "code": 2307,
+              "desc": "Room Service"
+            },
+            {
+              "code": 2313,
+              "desc": "Sauna"
+            },
+            {
+              "code": 2332,
+              "desc": "Smoking area"
+            },
+            {
+              "code": 2352,
+              "desc": "Swimming pool"
+            },
+            {
+              "code": 2359,
+              "desc": "Terrace"
+            },
+            {
+              "code": 2394,
+              "desc": "Wake-Up service"
+            },
+            {
+              "code": 2397,
+              "desc": "Water sports"
+            },
+            {
+              "code": 2403,
+              "desc": "WIFI"
+            },
+            {
+              "code": 2425,
+              "desc": "Parking"
+            },
+            {
+              "code": 2463,
+              "desc": "Wellness center"
+            },
+            {
+              "code": 2464,
+              "desc": "Steam room"
+            },
+            {
+              "code": 10006,
+              "desc": "Ironing Service"
+            },
+            {
+              "code": 10009,
+              "desc": "VIP Room Facilities"
+            },
+            {
+              "code": 10010,
+              "desc": "Family Rooms"
+            },
+            {
+              "code": 10013,
+              "desc": "Lockers"
+            },
+            {
+              "code": 10019,
+              "desc": "spa"
+            },
+            {
+              "code": 10027,
+              "desc": "Children television networks"
+            },
+            {
+              "code": 10036,
+              "desc": "Heated pool"
+            },
+            {
+              "code": 10038,
+              "desc": "Kids meals"
+            },
+            {
+              "code": 10042,
+              "desc": "Packed lunches"
+            },
+            {
+              "code": 10045,
+              "desc": "Seating Area"
+            },
+            {
+              "code": 10128,
+              "desc": "Accessible elevators"
+            },
+            {
+              "code": 10130,
+              "desc": "Accessible parking"
+            },
+            {
+              "code": 10159,
+              "desc": "Beach Towels "
+            },
+            {
+              "code": 10160,
+              "desc": "Pool Towels"
+            },
+            {
+              "code": 10174,
+              "desc": "Fitness/Spa Locker Rooms"
+            },
+            {
+              "code": 10177,
+              "desc": "Outdoor Furniture"
+            },
+            {
+              "code": 10179,
+              "desc": "Pet bowls"
+            },
+            {
+              "code": 10183,
+              "desc": "Shared Lounge/TV Area"
+            },
+            {
+              "code": 10187,
+              "desc": "Wine/champagne"
+            },
+            {
+              "code": 10215,
+              "desc": "24 Hour Front Desk"
+            },
+            {
+              "code": 10231,
+              "desc": "Parking on-site"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4174961,
+      "topPick": null,
+      "trustYouReviews": {
+        "score": "8.8",
+        "sourcesCount": 41,
+        "reviewsCount": 2377,
+        "scoreDescription": "Excellent",
+        "scoreColor": "#129911"
+      },
+      "summary": {
+        "hotelName": "Hyatt Regency London - The Churchill",
+        "lowRate": 3257.8,
+        "highRate": 37063.04,
+        "priority": 1979,
+        "score": 1979,
+        "distance": 2.2213959447259524,
+        "distanceInMeters": 2221.39,
+        "distanceScore": 0.911144,
+        "priorityScore": 0.9895,
+        "propertyType": "Motel",
+        "pricePerNight": 1628.9,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 2221.39,
+            "descriptionEn": "<span>2.2 km </span>from city center of London",
+            "description": "<span>2.2 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>2.2 كم </span>من مركز مدينة London",
+            "km": 2.2213959447259524,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "30 Portman Square, Westminster Borough, London, W1H 7BH, United Kingdom",
+        "shortAddress": "Marylebone",
+        "latitude": 51.51548,
+        "longitude": -0.15704
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4174961/0_1.jpg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "hotelRating",
+          "vendor": "TripAdvisor",
+          "value": "4.5",
+          "imageUrl": "https://carsolizeprod.blob.core.windows.net/images/TrustYou/4_5.png",
+          "reviewsCount": 2239
+        },
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "5",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": null,
+        "propertyTypeId": 14,
+        "chainId": 318,
+        "amenities": {
+          "roomAmenity": [
+            {
+              "code": 2006,
+              "desc": "Adjoining rooms"
+            },
+            {
+              "code": 2007,
+              "desc": "Air conditioning"
+            },
+            {
+              "code": 2037,
+              "desc": "Bathrobe"
+            },
+            {
+              "code": 2125,
+              "desc": "Coffee"
+            },
+            {
+              "code": 2138,
+              "desc": "Cribs Available"
+            },
+            {
+              "code": 2181,
+              "desc": "Telephone"
+            },
+            {
+              "code": 2197,
+              "desc": "Hairdryer"
+            },
+            {
+              "code": 2204,
+              "desc": "Housekeeping"
+            },
+            {
+              "code": 2212,
+              "desc": "Ipod dock"
+            },
+            {
+              "code": 2213,
+              "desc": "Iron and board"
+            },
+            {
+              "code": 2250,
+              "desc": "Minibar"
+            },
+            {
+              "code": 2329,
+              "desc": "Slippers"
+            },
+            {
+              "code": 2365,
+              "desc": "Toiletries"
+            },
+            {
+              "code": 2477,
+              "desc": "Safe"
+            },
+            {
+              "code": 2494,
+              "desc": "Soundproofing"
+            },
+            {
+              "code": 2511,
+              "desc": "Desk"
+            },
+            {
+              "code": 2513,
+              "desc": "Tea/Coffee maker"
+            },
+            {
+              "code": 2516,
+              "desc": "Safe"
+            },
+            {
+              "code": 10003,
+              "desc": "Dining Table"
+            },
+            {
+              "code": 10006,
+              "desc": "Parquet floors"
+            },
+            {
+              "code": 10040,
+              "desc": "LCD TV"
+            },
+            {
+              "code": 10041,
+              "desc": "TV"
+            },
+            {
+              "code": 10052,
+              "desc": "Hypo-allergenic bedding  "
+            }
+          ],
+          "propertyAmenity": [
+            {
+              "code": 2021,
+              "desc": "Babysitting/child services"
+            },
+            {
+              "code": 2035,
+              "desc": "Bars"
+            },
+            {
+              "code": 2051,
+              "desc": "Breakfast in room"
+            },
+            {
+              "code": 2067,
+              "desc": "Central heating"
+            },
+            {
+              "code": 2130,
+              "desc": "Concierge"
+            },
+            {
+              "code": 2140,
+              "desc": "Currency exchange"
+            },
+            {
+              "code": 2153,
+              "desc": "Dry cleaning service"
+            },
+            {
+              "code": 2163,
+              "desc": "Express Check-in/Check-out"
+            },
+            {
+              "code": 2166,
+              "desc": "Facilities for disabled"
+            },
+            {
+              "code": 2168,
+              "desc": "FAX"
+            },
+            {
+              "code": 2174,
+              "desc": "Fitness Center"
+            },
+            {
+              "code": 2189,
+              "desc": "Garden"
+            },
+            {
+              "code": 2228,
+              "desc": "Laundry Service"
+            },
+            {
+              "code": 2230,
+              "desc": "Lifts"
+            },
+            {
+              "code": 2238,
+              "desc": "Luggage storage"
+            },
+            {
+              "code": 2239,
+              "desc": "Maid service"
+            },
+            {
+              "code": 2257,
+              "desc": "Newspapers"
+            },
+            {
+              "code": 2267,
+              "desc": "Non-smoking throughout"
+            },
+            {
+              "code": 2281,
+              "desc": "Pets Not Allowed"
+            },
+            {
+              "code": 2304,
+              "desc": "Restaurant(s)"
+            },
+            {
+              "code": 2307,
+              "desc": "Room Service"
+            },
+            {
+              "code": 2332,
+              "desc": "Smoking area"
+            },
+            {
+              "code": 2358,
+              "desc": "Tennis court"
+            },
+            {
+              "code": 2359,
+              "desc": "Terrace"
+            },
+            {
+              "code": 2403,
+              "desc": "WIFI"
+            },
+            {
+              "code": 10007,
+              "desc": "photocopying"
+            },
+            {
+              "code": 10009,
+              "desc": "VIP Room Facilities"
+            },
+            {
+              "code": 10051,
+              "desc": "Tour desk"
+            },
+            {
+              "code": 10163,
+              "desc": "Shoeshine"
+            },
+            {
+              "code": 10215,
+              "desc": "24 Hour Front Desk"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4174963,
+      "topPick": null,
+      "trustYouReviews": {
+        "score": "9.3",
+        "sourcesCount": 31,
+        "reviewsCount": 3800,
+        "scoreDescription": "Excellent",
+        "scoreColor": "#129911"
+      },
+      "summary": {
+        "hotelName": "The Langham London",
+        "lowRate": 3786.79,
+        "highRate": 18654.46,
+        "priority": 1970,
+        "score": 1970,
+        "distance": 1.6179674194811624,
+        "distanceInMeters": 1617.96,
+        "distanceScore": 0.935282,
+        "priorityScore": 0.985,
+        "propertyType": "Motel",
+        "pricePerNight": 1893.395,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 1617.96,
+            "descriptionEn": "<span>1.6 km </span>from city center of London",
+            "description": "<span>1.6 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>1.6 كم </span>من مركز مدينة London",
+            "km": 1.6179674194811624,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "Portland Place, Westminster Borough, London, W1B 1JA, United Kingdom",
+        "shortAddress": "Marylebone (also St Marylebone)",
+        "latitude": 51.5178,
+        "longitude": -0.14399
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4174963/asd_1.jpg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "hotelRating",
+          "vendor": "TripAdvisor",
+          "value": "4.5",
+          "imageUrl": "https://carsolizeprod.blob.core.windows.net/images/TrustYou/4_5.png",
+          "reviewsCount": 3767
+        },
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "5",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": 66956,
+        "propertyTypeId": 14,
+        "chainId": 1544,
+        "amenities": {
+          "roomAmenity": [
+            {
+              "code": 2006,
+              "desc": "Adjoining rooms"
+            },
+            {
+              "code": 2037,
+              "desc": "Bathrobe"
+            },
+            {
+              "code": 2038,
+              "desc": "Bathroom"
+            },
+            {
+              "code": 2121,
+              "desc": "Climate control"
+            },
+            {
+              "code": 2178,
+              "desc": "bottled water"
+            },
+            {
+              "code": 2181,
+              "desc": "Telephone"
+            },
+            {
+              "code": 2197,
+              "desc": "Hairdryer"
+            },
+            {
+              "code": 2204,
+              "desc": "Housekeeping"
+            },
+            {
+              "code": 2210,
+              "desc": "Satellite Channels"
+            },
+            {
+              "code": 2213,
+              "desc": "Iron and board"
+            },
+            {
+              "code": 2298,
+              "desc": "Radio"
+            },
+            {
+              "code": 2323,
+              "desc": "Shower"
+            },
+            {
+              "code": 2329,
+              "desc": "Slippers"
+            },
+            {
+              "code": 2365,
+              "desc": "Toiletries"
+            },
+            {
+              "code": 2474,
+              "desc": "Heating"
+            },
+            {
+              "code": 2475,
+              "desc": "Flat Screen"
+            },
+            {
+              "code": 2479,
+              "desc": "Carpeted"
+            },
+            {
+              "code": 2480,
+              "desc": "Electric kettle"
+            },
+            {
+              "code": 2481,
+              "desc": "Wake up service/Alarm clock"
+            },
+            {
+              "code": 2484,
+              "desc": "Towels"
+            },
+            {
+              "code": 2489,
+              "desc": "Wardrobe/Closet"
+            },
+            {
+              "code": 2491,
+              "desc": "Tile/Marble floor"
+            },
+            {
+              "code": 2499,
+              "desc": "Video Games"
+            },
+            {
+              "code": 2501,
+              "desc": "Fax"
+            },
+            {
+              "code": 2511,
+              "desc": "Desk"
+            },
+            {
+              "code": 2513,
+              "desc": "Tea/Coffee maker"
+            },
+            {
+              "code": 2519,
+              "desc": "Laptop safe"
+            },
+            {
+              "code": 10037,
+              "desc": "Newspaper"
+            }
+          ],
+          "propertyAmenity": [
+            {
+              "code": 2007,
+              "desc": "Air conditioning"
+            },
+            {
+              "code": 2021,
+              "desc": "Babysitting/child services"
+            },
+            {
+              "code": 2035,
+              "desc": "Bars"
+            },
+            {
+              "code": 2051,
+              "desc": "Breakfast in room"
+            },
+            {
+              "code": 2058,
+              "desc": "Business Center"
+            },
+            {
+              "code": 2067,
+              "desc": "Central heating"
+            },
+            {
+              "code": 2125,
+              "desc": "Coffee"
+            },
+            {
+              "code": 2130,
+              "desc": "Concierge"
+            },
+            {
+              "code": 2153,
+              "desc": "Dry cleaning service"
+            },
+            {
+              "code": 2163,
+              "desc": "Express Check-in/Check-out"
+            },
+            {
+              "code": 2166,
+              "desc": "Facilities for disabled"
+            },
+            {
+              "code": 2168,
+              "desc": "FAX"
+            },
+            {
+              "code": 2174,
+              "desc": "Fitness Center"
+            },
+            {
+              "code": 2193,
+              "desc": "Gift shop"
+            },
+            {
+              "code": 2207,
+              "desc": "Indoor pool"
+            },
+            {
+              "code": 2228,
+              "desc": "Laundry Service"
+            },
+            {
+              "code": 2230,
+              "desc": "Lifts"
+            },
+            {
+              "code": 2238,
+              "desc": "Luggage storage"
+            },
+            {
+              "code": 2241,
+              "desc": "Massage"
+            },
+            {
+              "code": 2250,
+              "desc": "Minibar"
+            },
+            {
+              "code": 2254,
+              "desc": "Multilingual staff"
+            },
+            {
+              "code": 2257,
+              "desc": "Newspapers"
+            },
+            {
+              "code": 2266,
+              "desc": "Non smoking rooms"
+            },
+            {
+              "code": 2267,
+              "desc": "Non-smoking throughout"
+            },
+            {
+              "code": 2280,
+              "desc": "Pets allowed"
+            },
+            {
+              "code": 2304,
+              "desc": "Restaurant(s)"
+            },
+            {
+              "code": 2307,
+              "desc": "Room Service"
+            },
+            {
+              "code": 2313,
+              "desc": "Sauna"
+            },
+            {
+              "code": 2352,
+              "desc": "Swimming pool"
+            },
+            {
+              "code": 2394,
+              "desc": "Wake-Up service"
+            },
+            {
+              "code": 2401,
+              "desc": "Wheelchair accessible"
+            },
+            {
+              "code": 2403,
+              "desc": "WIFI"
+            },
+            {
+              "code": 2421,
+              "desc": "Breakfast"
+            },
+            {
+              "code": 2425,
+              "desc": "Parking"
+            },
+            {
+              "code": 2463,
+              "desc": "Wellness center"
+            },
+            {
+              "code": 2464,
+              "desc": "Steam room"
+            },
+            {
+              "code": 2477,
+              "desc": "Deposit Box"
+            },
+            {
+              "code": 10003,
+              "desc": "Ticket Service"
+            },
+            {
+              "code": 10006,
+              "desc": "Ironing Service"
+            },
+            {
+              "code": 10007,
+              "desc": "photocopying"
+            },
+            {
+              "code": 10009,
+              "desc": "VIP Room Facilities"
+            },
+            {
+              "code": 10019,
+              "desc": "spa"
+            },
+            {
+              "code": 10027,
+              "desc": "Children television networks"
+            },
+            {
+              "code": 10038,
+              "desc": "Kids meals"
+            },
+            {
+              "code": 10041,
+              "desc": "Meeting/Banquet Facilities"
+            },
+            {
+              "code": 10163,
+              "desc": "Shoeshine"
+            },
+            {
+              "code": 10174,
+              "desc": "Fitness/Spa Locker Rooms"
+            },
+            {
+              "code": 10187,
+              "desc": "Wine/champagne"
+            },
+            {
+              "code": 10198,
+              "desc": "Bottle of Water"
+            },
+            {
+              "code": 10208,
+              "desc": "Fruits"
+            },
+            {
+              "code": 10215,
+              "desc": "24 Hour Front Desk"
+            },
+            {
+              "code": 10216,
+              "desc": "Strollers"
+            },
+            {
+              "code": 10225,
+              "desc": "Books, DVDs, music for children"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4174965,
+      "topPick": null,
+      "trustYouReviews": {
+        "score": "9.2",
+        "sourcesCount": 37,
+        "reviewsCount": 3487,
+        "scoreDescription": "Excellent",
+        "scoreColor": "#129911"
+      },
+      "summary": {
+        "hotelName": "The Ritz London",
+        "lowRate": 4416.58,
+        "highRate": 13443.94,
+        "priority": 1964,
+        "score": 1964,
+        "distance": 0.9571872269479396,
+        "distanceInMeters": 957.18,
+        "distanceScore": 0.961713,
+        "priorityScore": 0.982,
+        "propertyType": "Motel",
+        "pricePerNight": 2208.29,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 957.18,
+            "descriptionEn": "<span>0.96 km </span>from city center of London",
+            "description": "<span>0.96 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>0.96 كم </span>من مركز مدينة London",
+            "km": 0.9571872269479396,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "150 Piccadilly, Westminster Borough, London, W1J 9BR, United Kingdom",
+        "shortAddress": "St. James's, Westminster",
+        "latitude": 51.50698,
+        "longitude": -0.14156
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4174965/ws.jpg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "hotelRating",
+          "vendor": "TripAdvisor",
+          "value": "4.5",
+          "imageUrl": "https://carsolizeprod.blob.core.windows.net/images/TrustYou/4_5.png",
+          "reviewsCount": 2628
+        },
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "5",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": 67445,
+        "propertyTypeId": 14,
+        "chainId": 1547,
+        "amenities": {
+          "roomAmenity": [
+            {
+              "code": 2006,
+              "desc": "Adjoining rooms"
+            },
+            {
+              "code": 2037,
+              "desc": "Bathrobe"
+            },
+            {
+              "code": 2047,
+              "desc": "Bidet"
+            },
+            {
+              "code": 2154,
+              "desc": "DVD player"
+            },
+            {
+              "code": 2197,
+              "desc": "Hairdryer"
+            },
+            {
+              "code": 2204,
+              "desc": "Housekeeping"
+            },
+            {
+              "code": 2210,
+              "desc": "Satellite Channels"
+            },
+            {
+              "code": 2213,
+              "desc": "Iron and board"
+            },
+            {
+              "code": 2250,
+              "desc": "Minibar"
+            },
+            {
+              "code": 2323,
+              "desc": "Shower"
+            },
+            {
+              "code": 2329,
+              "desc": "Slippers"
+            },
+            {
+              "code": 2365,
+              "desc": "Toiletries"
+            },
+            {
+              "code": 2489,
+              "desc": "Wardrobe/Closet"
+            },
+            {
+              "code": 2498,
+              "desc": "Terrace"
+            },
+            {
+              "code": 2511,
+              "desc": "Desk"
+            },
+            {
+              "code": 2513,
+              "desc": "Tea/Coffee maker"
+            },
+            {
+              "code": 2516,
+              "desc": "Safe"
+            },
+            {
+              "code": 10037,
+              "desc": "Newspaper"
+            },
+            {
+              "code": 10038,
+              "desc": "LED TV"
+            }
+          ],
+          "propertyAmenity": [
+            {
+              "code": 2007,
+              "desc": "Air conditioning"
+            },
+            {
+              "code": 2021,
+              "desc": "Babysitting/child services"
+            },
+            {
+              "code": 2034,
+              "desc": "Barber/Beauty Salon"
+            },
+            {
+              "code": 2035,
+              "desc": "Bars"
+            },
+            {
+              "code": 2051,
+              "desc": "Breakfast in room"
+            },
+            {
+              "code": 2064,
+              "desc": "Casino"
+            },
+            {
+              "code": 2130,
+              "desc": "Concierge"
+            },
+            {
+              "code": 2140,
+              "desc": "Currency exchange"
+            },
+            {
+              "code": 2153,
+              "desc": "Dry cleaning service"
+            },
+            {
+              "code": 2163,
+              "desc": "Express Check-in/Check-out"
+            },
+            {
+              "code": 2164,
+              "desc": "Private check-in/check-out"
+            },
+            {
+              "code": 2166,
+              "desc": "Facilities for disabled"
+            },
+            {
+              "code": 2168,
+              "desc": "FAX"
+            },
+            {
+              "code": 2174,
+              "desc": "Fitness Center"
+            },
+            {
+              "code": 2193,
+              "desc": "Gift shop"
+            },
+            {
+              "code": 2212,
+              "desc": "Ipod dock"
+            },
+            {
+              "code": 2228,
+              "desc": "Laundry Service"
+            },
+            {
+              "code": 2230,
+              "desc": "Lifts"
+            },
+            {
+              "code": 2238,
+              "desc": "Luggage storage"
+            },
+            {
+              "code": 2239,
+              "desc": "Maid service"
+            },
+            {
+              "code": 2241,
+              "desc": "Massage"
+            },
+            {
+              "code": 2254,
+              "desc": "Multilingual staff"
+            },
+            {
+              "code": 2257,
+              "desc": "Newspapers"
+            },
+            {
+              "code": 2266,
+              "desc": "Non smoking rooms"
+            },
+            {
+              "code": 2281,
+              "desc": "Pets Not Allowed"
+            },
+            {
+              "code": 2297,
+              "desc": "Internet access"
+            },
+            {
+              "code": 2304,
+              "desc": "Restaurant(s)"
+            },
+            {
+              "code": 2307,
+              "desc": "Room Service"
+            },
+            {
+              "code": 2322,
+              "desc": "Shops"
+            },
+            {
+              "code": 2324,
+              "desc": "Shuttle service"
+            },
+            {
+              "code": 2332,
+              "desc": "Smoking area"
+            },
+            {
+              "code": 2359,
+              "desc": "Terrace"
+            },
+            {
+              "code": 2417,
+              "desc": "Special diets"
+            },
+            {
+              "code": 2425,
+              "desc": "Parking"
+            },
+            {
+              "code": 2477,
+              "desc": "Deposit Box"
+            },
+            {
+              "code": 10003,
+              "desc": "Ticket Service"
+            },
+            {
+              "code": 10006,
+              "desc": "Ironing Service"
+            },
+            {
+              "code": 10007,
+              "desc": "photocopying"
+            },
+            {
+              "code": 10009,
+              "desc": "VIP Room Facilities"
+            },
+            {
+              "code": 10014,
+              "desc": "Car Hire"
+            },
+            {
+              "code": 10026,
+              "desc": "Bridal suite"
+            },
+            {
+              "code": 10041,
+              "desc": "Meeting/Banquet Facilities"
+            },
+            {
+              "code": 10051,
+              "desc": "Tour desk"
+            },
+            {
+              "code": 10052,
+              "desc": "Trouser press"
+            },
+            {
+              "code": 10072,
+              "desc": "Board games/puzzles"
+            },
+            {
+              "code": 10163,
+              "desc": "Shoeshine"
+            },
+            {
+              "code": 10215,
+              "desc": "24 Hour Front Desk"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4174967,
+      "topPick": null,
+      "trustYouReviews": {
+        "score": "8.5",
+        "sourcesCount": 40,
+        "reviewsCount": 3571,
+        "scoreDescription": "Excellent",
+        "scoreColor": "#129911"
+      },
+      "summary": {
+        "hotelName": "London Hilton On Park Lane",
+        "lowRate": 2545.32,
+        "highRate": 32480.11,
+        "priority": 1998,
+        "score": 1998,
+        "distance": 1.5851456210246886,
+        "distanceInMeters": 1585.14,
+        "distanceScore": 0.936594,
+        "priorityScore": 0.999,
+        "propertyType": "Hotel",
+        "pricePerNight": 1272.66,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 1585.14,
+            "descriptionEn": "<span>1.6 km </span>from city center of London",
+            "description": "<span>1.6 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>1.6 كم </span>من مركز مدينة London",
+            "km": 1.5851456210246886,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "22 Park Lane, Westminster Borough, London, W1K 1BE, United Kingdom",
+        "shortAddress": "Mayfair, Westminster",
+        "latitude": 51.50554,
+        "longitude": -0.15045
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4174967/0_1.jpg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "hotelRating",
+          "vendor": "TripAdvisor",
+          "value": "4",
+          "imageUrl": "https://carsolizeprod.blob.core.windows.net/images/TrustYou/4.png",
+          "reviewsCount": 3214
+        },
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "5",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": 12398,
+        "propertyTypeId": 1,
+        "chainId": 1530,
+        "amenities": {
+          "roomAmenity": [
+            {
+              "code": 2006,
+              "desc": "Adjoining rooms"
+            },
+            {
+              "code": 2007,
+              "desc": "Air conditioning"
+            },
+            {
+              "code": 2038,
+              "desc": "Bathroom"
+            },
+            {
+              "code": 2121,
+              "desc": "Climate control"
+            },
+            {
+              "code": 2125,
+              "desc": "Coffee"
+            },
+            {
+              "code": 2138,
+              "desc": "Cribs Available"
+            },
+            {
+              "code": 2181,
+              "desc": "Telephone"
+            },
+            {
+              "code": 2197,
+              "desc": "Hairdryer"
+            },
+            {
+              "code": 2204,
+              "desc": "Housekeeping"
+            },
+            {
+              "code": 2210,
+              "desc": "Satellite Channels"
+            },
+            {
+              "code": 2213,
+              "desc": "Iron and board"
+            },
+            {
+              "code": 2250,
+              "desc": "Minibar"
+            },
+            {
+              "code": 2365,
+              "desc": "Toiletries"
+            },
+            {
+              "code": 2477,
+              "desc": "Safe"
+            },
+            {
+              "code": 2511,
+              "desc": "Desk"
+            },
+            {
+              "code": 2513,
+              "desc": "Tea/Coffee maker"
+            },
+            {
+              "code": 2516,
+              "desc": "Safe"
+            },
+            {
+              "code": 10003,
+              "desc": "Dining Table"
+            },
+            {
+              "code": 10006,
+              "desc": "Parquet floors"
+            },
+            {
+              "code": 10007,
+              "desc": "Toilet paper"
+            },
+            {
+              "code": 10010,
+              "desc": "laundry service"
+            },
+            {
+              "code": 10012,
+              "desc": "pay movies"
+            },
+            {
+              "code": 10021,
+              "desc": "MP3 docking station"
+            },
+            {
+              "code": 10037,
+              "desc": "Newspaper"
+            },
+            {
+              "code": 10038,
+              "desc": "LED TV"
+            },
+            {
+              "code": 10041,
+              "desc": "TV"
+            },
+            {
+              "code": 10045,
+              "desc": "Rollaway bed"
+            },
+            {
+              "code": 10046,
+              "desc": "Premium bedding"
+            },
+            {
+              "code": 10050,
+              "desc": "blackout drapes/curtains"
+            },
+            {
+              "code": 10052,
+              "desc": "Hypo-allergenic bedding  "
+            }
+          ],
+          "propertyAmenity": [
+            {
+              "code": 2020,
+              "desc": "ATM"
+            },
+            {
+              "code": 2021,
+              "desc": "Babysitting/child services"
+            },
+            {
+              "code": 2032,
+              "desc": "Bar/Snack/Cafen"
+            },
+            {
+              "code": 2034,
+              "desc": "Barber/Beauty Salon"
+            },
+            {
+              "code": 2035,
+              "desc": "Bars"
+            },
+            {
+              "code": 2051,
+              "desc": "Breakfast in room"
+            },
+            {
+              "code": 2067,
+              "desc": "Central heating"
+            },
+            {
+              "code": 2130,
+              "desc": "Concierge"
+            },
+            {
+              "code": 2140,
+              "desc": "Currency exchange"
+            },
+            {
+              "code": 2153,
+              "desc": "Dry cleaning service"
+            },
+            {
+              "code": 2163,
+              "desc": "Express Check-in/Check-out"
+            },
+            {
+              "code": 2166,
+              "desc": "Facilities for disabled"
+            },
+            {
+              "code": 2168,
+              "desc": "FAX"
+            },
+            {
+              "code": 2174,
+              "desc": "Fitness Center"
+            },
+            {
+              "code": 2193,
+              "desc": "Gift shop"
+            },
+            {
+              "code": 2228,
+              "desc": "Laundry Service"
+            },
+            {
+              "code": 2230,
+              "desc": "Lifts"
+            },
+            {
+              "code": 2238,
+              "desc": "Luggage storage"
+            },
+            {
+              "code": 2241,
+              "desc": "Massage"
+            },
+            {
+              "code": 2254,
+              "desc": "Multilingual staff"
+            },
+            {
+              "code": 2257,
+              "desc": "Newspapers"
+            },
+            {
+              "code": 2258,
+              "desc": "Nightclub"
+            },
+            {
+              "code": 2266,
+              "desc": "Non smoking rooms"
+            },
+            {
+              "code": 2280,
+              "desc": "Pets allowed"
+            },
+            {
+              "code": 2304,
+              "desc": "Restaurant(s)"
+            },
+            {
+              "code": 2307,
+              "desc": "Room Service"
+            },
+            {
+              "code": 2313,
+              "desc": "Sauna"
+            },
+            {
+              "code": 2322,
+              "desc": "Shops"
+            },
+            {
+              "code": 2332,
+              "desc": "Smoking area"
+            },
+            {
+              "code": 2417,
+              "desc": "Special diets"
+            },
+            {
+              "code": 2463,
+              "desc": "Wellness center"
+            },
+            {
+              "code": 2469,
+              "desc": "Airport shuttle"
+            },
+            {
+              "code": 10009,
+              "desc": "VIP Room Facilities"
+            },
+            {
+              "code": 10014,
+              "desc": "Car Hire"
+            },
+            {
+              "code": 10019,
+              "desc": "spa"
+            },
+            {
+              "code": 10055,
+              "desc": "Billiards"
+            },
+            {
+              "code": 10163,
+              "desc": "Shoeshine"
+            },
+            {
+              "code": 10175,
+              "desc": "Hammam"
+            },
+            {
+              "code": 10187,
+              "desc": "Wine/champagne"
+            },
+            {
+              "code": 10198,
+              "desc": "Bottle of Water"
+            },
+            {
+              "code": 10208,
+              "desc": "Fruits"
+            },
+            {
+              "code": 10215,
+              "desc": "24 Hour Front Desk"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4174973,
+      "topPick": null,
+      "trustYouReviews": {
+        "score": "7.9",
+        "sourcesCount": 42,
+        "reviewsCount": 1958,
+        "scoreDescription": "Very good",
+        "scoreColor": "#71BC4C"
+      },
+      "summary": {
+        "hotelName": "Le Meridien Piccadilly",
+        "lowRate": 3013.89,
+        "highRate": 6796.49,
+        "priority": 1967,
+        "score": 1967,
+        "distance": 0.6388515196434589,
+        "distanceInMeters": 638.85,
+        "distanceScore": 0.974446,
+        "priorityScore": 0.9835,
+        "propertyType": "Hotel",
+        "pricePerNight": 1506.945,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 638.85,
+            "descriptionEn": "<span>0.64 km </span>from city center of London",
+            "description": "<span>0.64 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>0.64 كم </span>من مركز مدينة London",
+            "km": 0.6388515196434589,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "21 Piccadilly, Westminster Borough, London, W1J 0BH, United Kingdom",
+        "shortAddress": "Piccadilly Circus/Covent Garden, St James",
+        "latitude": 51.50948,
+        "longitude": -0.13632
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4174973/1_20.jpg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "5",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": 12305,
+        "propertyTypeId": 1,
+        "chainId": 313,
+        "amenities": {
+          "roomAmenity": [
+            {
+              "code": 2001,
+              "desc": "Room Service"
+            },
+            {
+              "code": 2006,
+              "desc": "Adjoining rooms"
+            },
+            {
+              "code": 2007,
+              "desc": "Air conditioning"
+            },
+            {
+              "code": 2037,
+              "desc": "Bathrobe"
+            },
+            {
+              "code": 2038,
+              "desc": "Bathroom"
+            },
+            {
+              "code": 2125,
+              "desc": "Coffee"
+            },
+            {
+              "code": 2138,
+              "desc": "Cribs Available"
+            },
+            {
+              "code": 2185,
+              "desc": "Free Wifi"
+            },
+            {
+              "code": 2197,
+              "desc": "Hairdryer"
+            },
+            {
+              "code": 2204,
+              "desc": "Housekeeping"
+            },
+            {
+              "code": 2213,
+              "desc": "Iron and board"
+            },
+            {
+              "code": 2250,
+              "desc": "Minibar"
+            },
+            {
+              "code": 2302,
+              "desc": "Refrigerator"
+            },
+            {
+              "code": 2323,
+              "desc": "Shower"
+            },
+            {
+              "code": 2329,
+              "desc": "Slippers"
+            },
+            {
+              "code": 2335,
+              "desc": "Sofa bed"
+            },
+            {
+              "code": 2383,
+              "desc": "Television"
+            },
+            {
+              "code": 2387,
+              "desc": "Video"
+            }
+          ],
+          "propertyAmenity": [
+            {
+              "code": 2031,
+              "desc": "Bar/Lounge"
+            },
+            {
+              "code": 2034,
+              "desc": "Barber/Beauty Salon"
+            },
+            {
+              "code": 2044,
+              "desc": "Bell boy"
+            },
+            {
+              "code": 2058,
+              "desc": "Business Center"
+            },
+            {
+              "code": 2130,
+              "desc": "Concierge"
+            },
+            {
+              "code": 2144,
+              "desc": "Desk"
+            },
+            {
+              "code": 2153,
+              "desc": "Dry cleaning service"
+            },
+            {
+              "code": 2163,
+              "desc": "Express Check-in/Check-out"
+            },
+            {
+              "code": 2182,
+              "desc": "Free newspaper"
+            },
+            {
+              "code": 2199,
+              "desc": "Health Spa"
+            },
+            {
+              "code": 2207,
+              "desc": "Indoor pool"
+            },
+            {
+              "code": 2228,
+              "desc": "Laundry Service"
+            },
+            {
+              "code": 2230,
+              "desc": "Lifts"
+            },
+            {
+              "code": 2238,
+              "desc": "Luggage storage"
+            },
+            {
+              "code": 2244,
+              "desc": "Meeting room"
+            },
+            {
+              "code": 2254,
+              "desc": "Multilingual staff"
+            },
+            {
+              "code": 2269,
+              "desc": "Number of floors - under 10"
+            },
+            {
+              "code": 2304,
+              "desc": "Restaurant(s)"
+            },
+            {
+              "code": 2310,
+              "desc": "Safe"
+            },
+            {
+              "code": 2348,
+              "desc": "Surcharge"
+            },
+            {
+              "code": 2382,
+              "desc": "Turkish Bath"
+            },
+            {
+              "code": 2453,
+              "desc": "Health club"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4174975,
+      "topPick": null,
+      "trustYouReviews": {
+        "score": "7.5",
+        "sourcesCount": 39,
+        "reviewsCount": 2570,
+        "scoreDescription": "Very good",
+        "scoreColor": "#71BC4C"
+      },
+      "summary": {
+        "hotelName": "Courthouse Hotel London",
+        "lowRate": 2070.92,
+        "highRate": 6045.25,
+        "priority": 1845,
+        "score": 1845,
+        "distance": 1.1257689253065062,
+        "distanceInMeters": 1125.76,
+        "distanceScore": 0.95497,
+        "priorityScore": 0.9225,
+        "propertyType": "Hotel",
+        "pricePerNight": 1035.46,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 1125.76,
+            "descriptionEn": "<span>1.1 km </span>from city center of London",
+            "description": "<span>1.1 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>1.1 كم </span>من مركز مدينة London",
+            "km": 1.1257689253065062,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "19-21 Gt. Marlborough St, Westminster Borough, London, W1F 7HL, United Kingdom",
+        "shortAddress": "Covent Garden, Soho",
+        "latitude": 51.51436,
+        "longitude": -0.13947
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4174975/a.jpg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "5",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": 66001,
+        "propertyTypeId": 1,
+        "chainId": 150,
+        "amenities": {
+          "roomAmenity": [
+            {
+              "code": 2037,
+              "desc": "Bathrobe"
+            },
+            {
+              "code": 2038,
+              "desc": "Bathroom"
+            },
+            {
+              "code": 2047,
+              "desc": "Bidet"
+            },
+            {
+              "code": 2125,
+              "desc": "Coffee"
+            },
+            {
+              "code": 2138,
+              "desc": "Cribs Available"
+            },
+            {
+              "code": 2181,
+              "desc": "Telephone"
+            },
+            {
+              "code": 2197,
+              "desc": "Hairdryer"
+            },
+            {
+              "code": 2204,
+              "desc": "Housekeeping"
+            },
+            {
+              "code": 2213,
+              "desc": "Iron and board"
+            },
+            {
+              "code": 2250,
+              "desc": "Minibar"
+            },
+            {
+              "code": 2323,
+              "desc": "Shower"
+            },
+            {
+              "code": 2365,
+              "desc": "Toiletries"
+            },
+            {
+              "code": 2511,
+              "desc": "Desk"
+            }
+          ],
+          "propertyAmenity": [
+            {
+              "code": 2007,
+              "desc": "Air conditioning"
+            },
+            {
+              "code": 2035,
+              "desc": "Bars"
+            },
+            {
+              "code": 2130,
+              "desc": "Concierge"
+            },
+            {
+              "code": 2166,
+              "desc": "Facilities for disabled"
+            },
+            {
+              "code": 2207,
+              "desc": "Indoor pool"
+            },
+            {
+              "code": 2254,
+              "desc": "Multilingual staff"
+            },
+            {
+              "code": 2266,
+              "desc": "Non smoking rooms"
+            },
+            {
+              "code": 2281,
+              "desc": "Pets Not Allowed"
+            },
+            {
+              "code": 2304,
+              "desc": "Restaurant(s)"
+            },
+            {
+              "code": 2313,
+              "desc": "Sauna"
+            },
+            {
+              "code": 2352,
+              "desc": "Swimming pool"
+            },
+            {
+              "code": 2403,
+              "desc": "WIFI"
+            },
+            {
+              "code": 2421,
+              "desc": "Breakfast"
+            },
+            {
+              "code": 2477,
+              "desc": "Deposit Box"
+            },
+            {
+              "code": 10006,
+              "desc": "Ironing Service"
+            },
+            {
+              "code": 10019,
+              "desc": "spa"
+            },
+            {
+              "code": 10041,
+              "desc": "Meeting/Banquet Facilities"
+            },
+            {
+              "code": 10215,
+              "desc": "24 Hour Front Desk"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4174978,
+      "topPick": null,
+      "trustYouReviews": {
+        "score": "8.7",
+        "sourcesCount": 24,
+        "reviewsCount": 18880,
+        "scoreDescription": "Excellent",
+        "scoreColor": "#129911"
+      },
+      "summary": {
+        "hotelName": "Park Plaza Westminster Bridge London",
+        "lowRate": 2020.67,
+        "highRate": 3655.25,
+        "priority": 1990,
+        "score": 1990,
+        "distance": 1.0460206682750004,
+        "distanceInMeters": 1046.02,
+        "distanceScore": 0.958159,
+        "priorityScore": 0.995,
+        "propertyType": "Hotel",
+        "pricePerNight": 1010.335,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 1046.02,
+            "descriptionEn": "<span>1.0 km </span>from city center of London",
+            "description": "<span>1.0 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>1.0 كم </span>من مركز مدينة London",
+            "km": 1.0460206682750004,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "Westminster Bridge Road, Lambeth, London, SE1 7UT, United Kingdom",
+        "shortAddress": "Westminster, Lambeth",
+        "latitude": 51.50096,
+        "longitude": -0.11669
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4174978/a.png",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "hotelRating",
+          "vendor": "TripAdvisor",
+          "value": "4.5",
+          "imageUrl": "https://carsolizeprod.blob.core.windows.net/images/TrustYou/4_5.png",
+          "reviewsCount": 19038
+        },
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "4",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": 66812,
+        "propertyTypeId": 1,
+        "chainId": 1533,
+        "amenities": {
+          "roomAmenity": [
+            {
+              "code": 2007,
+              "desc": "Air conditioning"
+            },
+            {
+              "code": 2037,
+              "desc": "Bathrobe"
+            },
+            {
+              "code": 2038,
+              "desc": "Bathroom"
+            },
+            {
+              "code": 2125,
+              "desc": "Coffee"
+            },
+            {
+              "code": 2138,
+              "desc": "Cribs Available"
+            },
+            {
+              "code": 2181,
+              "desc": "Telephone"
+            },
+            {
+              "code": 2197,
+              "desc": "Hairdryer"
+            },
+            {
+              "code": 2204,
+              "desc": "Housekeeping"
+            },
+            {
+              "code": 2250,
+              "desc": "Minibar"
+            },
+            {
+              "code": 2323,
+              "desc": "Shower"
+            },
+            {
+              "code": 2365,
+              "desc": "Toiletries"
+            },
+            {
+              "code": 2488,
+              "desc": "interConnected rooms"
+            },
+            {
+              "code": 2511,
+              "desc": "Desk"
+            },
+            {
+              "code": 2513,
+              "desc": "Tea/Coffee maker"
+            },
+            {
+              "code": 2516,
+              "desc": "Safe"
+            },
+            {
+              "code": 10006,
+              "desc": "Parquet floors"
+            },
+            {
+              "code": 10007,
+              "desc": "Toilet paper"
+            },
+            {
+              "code": 10019,
+              "desc": "Extra bed"
+            },
+            {
+              "code": 10038,
+              "desc": "LED TV"
+            },
+            {
+              "code": 10041,
+              "desc": "TV"
+            }
+          ],
+          "propertyAmenity": [
+            {
+              "code": 2020,
+              "desc": "ATM"
+            },
+            {
+              "code": 2032,
+              "desc": "Bar/Snack/Cafen"
+            },
+            {
+              "code": 2035,
+              "desc": "Bars"
+            },
+            {
+              "code": 2051,
+              "desc": "Breakfast in room"
+            },
+            {
+              "code": 2058,
+              "desc": "Business Center"
+            },
+            {
+              "code": 2067,
+              "desc": "Central heating"
+            },
+            {
+              "code": 2130,
+              "desc": "Concierge"
+            },
+            {
+              "code": 2140,
+              "desc": "Currency exchange"
+            },
+            {
+              "code": 2153,
+              "desc": "Dry cleaning service"
+            },
+            {
+              "code": 2163,
+              "desc": "Express Check-in/Check-out"
+            },
+            {
+              "code": 2166,
+              "desc": "Facilities for disabled"
+            },
+            {
+              "code": 2168,
+              "desc": "FAX"
+            },
+            {
+              "code": 2174,
+              "desc": "Fitness Center"
+            },
+            {
+              "code": 2207,
+              "desc": "Indoor pool"
+            },
+            {
+              "code": 2228,
+              "desc": "Laundry Service"
+            },
+            {
+              "code": 2230,
+              "desc": "Lifts"
+            },
+            {
+              "code": 2238,
+              "desc": "Luggage storage"
+            },
+            {
+              "code": 2239,
+              "desc": "Maid service"
+            },
+            {
+              "code": 2241,
+              "desc": "Massage"
+            },
+            {
+              "code": 2254,
+              "desc": "Multilingual staff"
+            },
+            {
+              "code": 2257,
+              "desc": "Newspapers"
+            },
+            {
+              "code": 2266,
+              "desc": "Non smoking rooms"
+            },
+            {
+              "code": 2267,
+              "desc": "Non-smoking throughout"
+            },
+            {
+              "code": 2281,
+              "desc": "Pets Not Allowed"
+            },
+            {
+              "code": 2304,
+              "desc": "Restaurant(s)"
+            },
+            {
+              "code": 2307,
+              "desc": "Room Service"
+            },
+            {
+              "code": 2313,
+              "desc": "Sauna"
+            },
+            {
+              "code": 2332,
+              "desc": "Smoking area"
+            },
+            {
+              "code": 2337,
+              "desc": "Soundproof rooms"
+            },
+            {
+              "code": 2352,
+              "desc": "Swimming pool"
+            },
+            {
+              "code": 2394,
+              "desc": "Wake-Up service"
+            },
+            {
+              "code": 2401,
+              "desc": "Wheelchair accessible"
+            },
+            {
+              "code": 2403,
+              "desc": "WIFI"
+            },
+            {
+              "code": 2421,
+              "desc": "Breakfast"
+            },
+            {
+              "code": 10009,
+              "desc": "VIP Room Facilities"
+            },
+            {
+              "code": 10010,
+              "desc": "Family Rooms"
+            },
+            {
+              "code": 10014,
+              "desc": "Car Hire"
+            },
+            {
+              "code": 10026,
+              "desc": "Bridal suite"
+            },
+            {
+              "code": 10178,
+              "desc": "Pedicure"
+            },
+            {
+              "code": 10203,
+              "desc": "Makeup Services"
+            },
+            {
+              "code": 10213,
+              "desc": "Iron and board"
+            },
+            {
+              "code": 10215,
+              "desc": "24 Hour Front Desk"
+            },
+            {
+              "code": 10224,
+              "desc": "Safe"
+            },
+            {
+              "code": 10234,
+              "desc": "Public Parking"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4174980,
+      "topPick": null,
+      "trustYouReviews": {
+        "score": "8.7",
+        "sourcesCount": 22,
+        "reviewsCount": 681,
+        "scoreDescription": "Excellent",
+        "scoreColor": "#129911"
+      },
+      "summary": {
+        "hotelName": "The Bentley London",
+        "lowRate": 1955.51,
+        "highRate": 8779.45,
+        "priority": 0,
+        "score": 4.49779,
+        "distance": 4.235759466402392,
+        "distanceInMeters": 4235.75,
+        "distanceScore": 0.83057,
+        "priorityScore": 0,
+        "propertyType": "Hotel",
+        "pricePerNight": 977.755,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 4235.75,
+            "descriptionEn": "<span>4.2 km </span>from city center of London",
+            "description": "<span>4.2 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>4.2 كم </span>من مركز مدينة London",
+            "km": 4.235759466402392,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "27-33 Harrington Gardens, Kensington and Chelsea, London, SW7 4JX, United Kingdom",
+        "shortAddress": "South Kensington/Gloucester Road, South Kensington",
+        "latitude": 51.49276,
+        "longitude": -0.18421
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4174980/bentley_london_22.jpg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "hotelRating",
+          "vendor": "TripAdvisor",
+          "value": "4.5",
+          "imageUrl": "https://carsolizeprod.blob.core.windows.net/images/TrustYou/4_5.png",
+          "reviewsCount": 680
+        },
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "5",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": 12306,
+        "propertyTypeId": 1,
+        "chainId": 626,
+        "amenities": {
+          "roomAmenity": [
+            {
+              "code": 2001,
+              "desc": "Room Service"
+            },
+            {
+              "code": 2006,
+              "desc": "Adjoining rooms"
+            },
+            {
+              "code": 2007,
+              "desc": "Air conditioning"
+            },
+            {
+              "code": 2038,
+              "desc": "Bathroom"
+            },
+            {
+              "code": 2138,
+              "desc": "Cribs Available"
+            },
+            {
+              "code": 2197,
+              "desc": "Hairdryer"
+            },
+            {
+              "code": 2204,
+              "desc": "Housekeeping"
+            },
+            {
+              "code": 2213,
+              "desc": "Iron and board"
+            },
+            {
+              "code": 2250,
+              "desc": "Minibar"
+            },
+            {
+              "code": 2323,
+              "desc": "Shower"
+            },
+            {
+              "code": 2365,
+              "desc": "Toiletries"
+            }
+          ],
+          "propertyAmenity": [
+            {
+              "code": 2031,
+              "desc": "Bar/Lounge"
+            },
+            {
+              "code": 2125,
+              "desc": "Coffee"
+            },
+            {
+              "code": 2130,
+              "desc": "Concierge"
+            },
+            {
+              "code": 2144,
+              "desc": "Desk"
+            },
+            {
+              "code": 2153,
+              "desc": "Dry cleaning service"
+            },
+            {
+              "code": 2199,
+              "desc": "Health Spa"
+            },
+            {
+              "code": 2238,
+              "desc": "Luggage storage"
+            },
+            {
+              "code": 2269,
+              "desc": "Number of floors - under 10"
+            },
+            {
+              "code": 2304,
+              "desc": "Restaurant(s)"
+            },
+            {
+              "code": 2310,
+              "desc": "Safe"
+            },
+            {
+              "code": 2316,
+              "desc": "Self Parking"
+            },
+            {
+              "code": 2348,
+              "desc": "Surcharge"
+            },
+            {
+              "code": 2367,
+              "desc": "Total number of rooms 51 - 100"
+            },
+            {
+              "code": 2382,
+              "desc": "Turkish Bath"
+            },
+            {
+              "code": 2383,
+              "desc": "TV"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4174982,
+      "topPick": null,
+      "trustYouReviews": {
+        "score": "9.3",
+        "sourcesCount": 33,
+        "reviewsCount": 10114,
+        "scoreDescription": "Excellent",
+        "scoreColor": "#129911"
+      },
+      "summary": {
+        "hotelName": "The Savoy",
+        "lowRate": 4825.12,
+        "highRate": 20728.07,
+        "priority": 1952,
+        "score": 1952,
+        "distance": 0.5923920289510012,
+        "distanceInMeters": 592.39,
+        "distanceScore": 0.976304,
+        "priorityScore": 0.976,
+        "propertyType": "Hotel",
+        "pricePerNight": 2412.56,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 592.39,
+            "descriptionEn": "<span>0.59 km </span>from city center of London",
+            "description": "<span>0.59 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>0.59 كم </span>من مركز مدينة London",
+            "km": 0.5923920289510012,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "Strand, Westminster Borough, London, WC2R 0EU, United Kingdom",
+        "shortAddress": "Near Trafalgar Square, Westminster Borough",
+        "latitude": 51.51027,
+        "longitude": -0.12061
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4174982/a_1.jpg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "hotelRating",
+          "vendor": "TripAdvisor",
+          "value": "4.5",
+          "imageUrl": "https://carsolizeprod.blob.core.windows.net/images/TrustYou/4_5.png",
+          "reviewsCount": 9930
+        },
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "5",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": 12307,
+        "propertyTypeId": 1,
+        "chainId": 1532,
+        "amenities": {
+          "roomAmenity": [
+            {
+              "code": 2001,
+              "desc": "Room Service"
+            },
+            {
+              "code": 2007,
+              "desc": "Air conditioning"
+            },
+            {
+              "code": 2037,
+              "desc": "Bathrobe"
+            },
+            {
+              "code": 2038,
+              "desc": "Bathroom"
+            },
+            {
+              "code": 2125,
+              "desc": "Coffee"
+            },
+            {
+              "code": 2178,
+              "desc": "bottled water"
+            },
+            {
+              "code": 2181,
+              "desc": "Telephone"
+            },
+            {
+              "code": 2197,
+              "desc": "Hairdryer"
+            },
+            {
+              "code": 2204,
+              "desc": "Housekeeping"
+            },
+            {
+              "code": 2213,
+              "desc": "Iron and board"
+            },
+            {
+              "code": 2250,
+              "desc": "Minibar"
+            },
+            {
+              "code": 2297,
+              "desc": "Internet access"
+            },
+            {
+              "code": 2302,
+              "desc": "Refrigerator"
+            },
+            {
+              "code": 2319,
+              "desc": "Sheets"
+            },
+            {
+              "code": 2323,
+              "desc": "Shower"
+            },
+            {
+              "code": 2329,
+              "desc": "Slippers"
+            },
+            {
+              "code": 2365,
+              "desc": "Toiletries"
+            },
+            {
+              "code": 2383,
+              "desc": "Television"
+            }
+          ],
+          "propertyAmenity": [
+            {
+              "code": 2021,
+              "desc": "Babysitting/child services"
+            },
+            {
+              "code": 2035,
+              "desc": "Bars"
+            },
+            {
+              "code": 2044,
+              "desc": "Bell boy"
+            },
+            {
+              "code": 2058,
+              "desc": "Business Center"
+            },
+            {
+              "code": 2129,
+              "desc": "Computer room"
+            },
+            {
+              "code": 2130,
+              "desc": "Concierge"
+            },
+            {
+              "code": 2144,
+              "desc": "Desk"
+            },
+            {
+              "code": 2153,
+              "desc": "Dry cleaning service"
+            },
+            {
+              "code": 2163,
+              "desc": "Express Check-in/Check-out"
+            },
+            {
+              "code": 2164,
+              "desc": "Private check-in/check-out"
+            },
+            {
+              "code": 2182,
+              "desc": "Free newspaper"
+            },
+            {
+              "code": 2193,
+              "desc": "Gift shop"
+            },
+            {
+              "code": 2199,
+              "desc": "Health Spa"
+            },
+            {
+              "code": 2207,
+              "desc": "Indoor pool"
+            },
+            {
+              "code": 2228,
+              "desc": "Laundry Service"
+            },
+            {
+              "code": 2230,
+              "desc": "Lifts"
+            },
+            {
+              "code": 2241,
+              "desc": "Massage"
+            },
+            {
+              "code": 2244,
+              "desc": "Meeting room"
+            },
+            {
+              "code": 2254,
+              "desc": "Multilingual staff"
+            },
+            {
+              "code": 2269,
+              "desc": "Number of floors - under 10"
+            },
+            {
+              "code": 2304,
+              "desc": "Restaurant(s)"
+            },
+            {
+              "code": 2310,
+              "desc": "Safe"
+            },
+            {
+              "code": 2313,
+              "desc": "Sauna"
+            },
+            {
+              "code": 2322,
+              "desc": "Shops"
+            },
+            {
+              "code": 2348,
+              "desc": "Surcharge"
+            },
+            {
+              "code": 2371,
+              "desc": "Total number of rooms 251-300"
+            },
+            {
+              "code": 2399,
+              "desc": "Wedding services"
+            },
+            {
+              "code": 2453,
+              "desc": "Health club"
+            },
+            {
+              "code": 2464,
+              "desc": "Steam room"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4174984,
+      "topPick": null,
+      "trustYouReviews": {
+        "score": "7.9",
+        "sourcesCount": 19,
+        "reviewsCount": 6906,
+        "scoreDescription": "Very good",
+        "scoreColor": "#71BC4C"
+      },
+      "summary": {
+        "hotelName": "Holiday Inn London Kensington Forum",
+        "lowRate": 996.91,
+        "highRate": 1594.5,
+        "priority": 1984,
+        "score": 1984,
+        "distance": 4.241832210786497,
+        "distanceInMeters": 4241.83,
+        "distanceScore": 0.830327,
+        "priorityScore": 0.992,
+        "propertyType": "Motel",
+        "pricePerNight": 498.455,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 4241.83,
+            "descriptionEn": "<span>4.2 km </span>from city center of London",
+            "description": "<span>4.2 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>4.2 كم </span>من مركز مدينة London",
+            "km": 4.241832210786497,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "97 Cromwell Road, Kensington and Chelsea, London, SW7 4DN, United Kingdom",
+        "shortAddress": "South Kensington/Gloucester Road, Kensington and Chelsea",
+        "latitude": 51.4942,
+        "longitude": -0.18521
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4174984/88_1.jpg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "hotelRating",
+          "vendor": "TripAdvisor",
+          "value": "4",
+          "imageUrl": "https://carsolizeprod.blob.core.windows.net/images/TrustYou/4.png",
+          "reviewsCount": 6135
+        },
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "4",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": 12306,
+        "propertyTypeId": 14,
+        "chainId": 1172,
+        "amenities": {
+          "roomAmenity": [
+            {
+              "code": 2007,
+              "desc": "Air conditioning"
+            },
+            {
+              "code": 2038,
+              "desc": "Bathroom"
+            },
+            {
+              "code": 2138,
+              "desc": "Cribs Available"
+            },
+            {
+              "code": 2181,
+              "desc": "Telephone"
+            },
+            {
+              "code": 2197,
+              "desc": "Hairdryer"
+            },
+            {
+              "code": 2204,
+              "desc": "Housekeeping"
+            },
+            {
+              "code": 2213,
+              "desc": "Iron and board"
+            },
+            {
+              "code": 2250,
+              "desc": "Minibar"
+            },
+            {
+              "code": 2286,
+              "desc": "Pillow menu"
+            },
+            {
+              "code": 2302,
+              "desc": "Refrigerator"
+            },
+            {
+              "code": 2323,
+              "desc": "Shower"
+            },
+            {
+              "code": 2335,
+              "desc": "Sofa bed"
+            },
+            {
+              "code": 2474,
+              "desc": "Heating"
+            },
+            {
+              "code": 2511,
+              "desc": "Desk"
+            },
+            {
+              "code": 2513,
+              "desc": "Tea/Coffee maker"
+            },
+            {
+              "code": 2516,
+              "desc": "Safe"
+            },
+            {
+              "code": 10007,
+              "desc": "Toilet paper"
+            },
+            {
+              "code": 10037,
+              "desc": "Newspaper"
+            },
+            {
+              "code": 10041,
+              "desc": "TV"
+            }
+          ],
+          "propertyAmenity": [
+            {
+              "code": 2020,
+              "desc": "ATM"
+            },
+            {
+              "code": 2032,
+              "desc": "Bar/Snack/Cafen"
+            },
+            {
+              "code": 2035,
+              "desc": "Bars"
+            },
+            {
+              "code": 2058,
+              "desc": "Business Center"
+            },
+            {
+              "code": 2067,
+              "desc": "Central heating"
+            },
+            {
+              "code": 2130,
+              "desc": "Concierge"
+            },
+            {
+              "code": 2140,
+              "desc": "Currency exchange"
+            },
+            {
+              "code": 2153,
+              "desc": "Dry cleaning service"
+            },
+            {
+              "code": 2166,
+              "desc": "Facilities for disabled"
+            },
+            {
+              "code": 2168,
+              "desc": "FAX"
+            },
+            {
+              "code": 2174,
+              "desc": "Fitness Center"
+            },
+            {
+              "code": 2188,
+              "desc": "Garage"
+            },
+            {
+              "code": 2193,
+              "desc": "Gift shop"
+            },
+            {
+              "code": 2228,
+              "desc": "Laundry Service"
+            },
+            {
+              "code": 2230,
+              "desc": "Lifts"
+            },
+            {
+              "code": 2238,
+              "desc": "Luggage storage"
+            },
+            {
+              "code": 2254,
+              "desc": "Multilingual staff"
+            },
+            {
+              "code": 2257,
+              "desc": "Newspapers"
+            },
+            {
+              "code": 2266,
+              "desc": "Non smoking rooms"
+            },
+            {
+              "code": 2267,
+              "desc": "Non-smoking throughout"
+            },
+            {
+              "code": 2281,
+              "desc": "Pets Not Allowed"
+            },
+            {
+              "code": 2304,
+              "desc": "Restaurant(s)"
+            },
+            {
+              "code": 2307,
+              "desc": "Room Service"
+            },
+            {
+              "code": 2322,
+              "desc": "Shops"
+            },
+            {
+              "code": 2394,
+              "desc": "Wake-Up service"
+            },
+            {
+              "code": 2401,
+              "desc": "Wheelchair accessible"
+            },
+            {
+              "code": 2403,
+              "desc": "WIFI"
+            },
+            {
+              "code": 2421,
+              "desc": "Breakfast"
+            },
+            {
+              "code": 2425,
+              "desc": "Parking"
+            },
+            {
+              "code": 10006,
+              "desc": "Ironing Service"
+            },
+            {
+              "code": 10038,
+              "desc": "Kids meals"
+            },
+            {
+              "code": 10039,
+              "desc": "Kid-friendly buffet"
+            },
+            {
+              "code": 10215,
+              "desc": "24 Hour Front Desk"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4174992,
+      "topPick": null,
+      "trustYouReviews": {
+        "score": "8.1",
+        "sourcesCount": 28,
+        "reviewsCount": 1386,
+        "scoreDescription": "Very good",
+        "scoreColor": "#71BC4C"
+      },
+      "summary": {
+        "hotelName": "The Park Tower Knightsbridge, a Luxury Collection Hotel",
+        "lowRate": 3354.76,
+        "highRate": 27794.17,
+        "priority": 3,
+        "score": 3,
+        "distance": 2.2347476667961406,
+        "distanceInMeters": 2234.74,
+        "distanceScore": 0.91061,
+        "priorityScore": 0.0015,
+        "propertyType": "Motel",
+        "pricePerNight": 1677.38,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 2234.74,
+            "descriptionEn": "<span>2.2 km </span>from city center of London",
+            "description": "<span>2.2 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>2.2 كم </span>من مركز مدينة London",
+            "km": 2.2347476667961406,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "101 Knightsbridge, Westminster Borough, London, SW1X 7RN, United Kingdom",
+        "shortAddress": "Belgravia, Westminster",
+        "latitude": 51.50173,
+        "longitude": -0.15872
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4174992/0_1.jpg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "hotelRating",
+          "vendor": "TripAdvisor",
+          "value": "4",
+          "imageUrl": "https://carsolizeprod.blob.core.windows.net/images/TrustYou/4.png",
+          "reviewsCount": 1351
+        },
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "5",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": 66908,
+        "propertyTypeId": 14,
+        "chainId": 313,
+        "amenities": {
+          "roomAmenity": [
+            {
+              "code": 2006,
+              "desc": "Adjoining rooms"
+            },
+            {
+              "code": 2007,
+              "desc": "Air conditioning"
+            },
+            {
+              "code": 2037,
+              "desc": "Bathrobe"
+            },
+            {
+              "code": 2038,
+              "desc": "Bathroom"
+            },
+            {
+              "code": 2121,
+              "desc": "Climate control"
+            },
+            {
+              "code": 2125,
+              "desc": "Coffee"
+            },
+            {
+              "code": 2138,
+              "desc": "Cribs Available"
+            },
+            {
+              "code": 2178,
+              "desc": "bottled water"
+            },
+            {
+              "code": 2181,
+              "desc": "Telephone"
+            },
+            {
+              "code": 2197,
+              "desc": "Hairdryer"
+            },
+            {
+              "code": 2204,
+              "desc": "Housekeeping"
+            },
+            {
+              "code": 2210,
+              "desc": "Satellite Channels"
+            },
+            {
+              "code": 2212,
+              "desc": "Ipod dock"
+            },
+            {
+              "code": 2250,
+              "desc": "Minibar"
+            },
+            {
+              "code": 2323,
+              "desc": "Shower"
+            },
+            {
+              "code": 2329,
+              "desc": "Slippers"
+            },
+            {
+              "code": 2365,
+              "desc": "Toiletries"
+            },
+            {
+              "code": 2477,
+              "desc": "Safe"
+            },
+            {
+              "code": 2483,
+              "desc": "bathtub"
+            },
+            {
+              "code": 2511,
+              "desc": "Desk"
+            },
+            {
+              "code": 2513,
+              "desc": "Tea/Coffee maker"
+            },
+            {
+              "code": 2516,
+              "desc": "Safe"
+            },
+            {
+              "code": 10007,
+              "desc": "Toilet paper"
+            },
+            {
+              "code": 10015,
+              "desc": "Turndown service"
+            },
+            {
+              "code": 10019,
+              "desc": "Extra bed"
+            },
+            {
+              "code": 10024,
+              "desc": "Room Service"
+            },
+            {
+              "code": 10037,
+              "desc": "Newspaper"
+            },
+            {
+              "code": 10041,
+              "desc": "TV"
+            },
+            {
+              "code": 10045,
+              "desc": "Rollaway bed"
+            },
+            {
+              "code": 10046,
+              "desc": "Premium bedding"
+            },
+            {
+              "code": 10047,
+              "desc": "Premium TV channels"
+            },
+            {
+              "code": 10050,
+              "desc": "blackout drapes/curtains"
+            },
+            {
+              "code": 10052,
+              "desc": "Hypo-allergenic bedding  "
+            }
+          ],
+          "propertyAmenity": [
+            {
+              "code": 2035,
+              "desc": "Bars"
+            },
+            {
+              "code": 2058,
+              "desc": "Business Center"
+            },
+            {
+              "code": 2067,
+              "desc": "Central heating"
+            },
+            {
+              "code": 2130,
+              "desc": "Concierge"
+            },
+            {
+              "code": 2140,
+              "desc": "Currency exchange"
+            },
+            {
+              "code": 2153,
+              "desc": "Dry cleaning service"
+            },
+            {
+              "code": 2166,
+              "desc": "Facilities for disabled"
+            },
+            {
+              "code": 2168,
+              "desc": "FAX"
+            },
+            {
+              "code": 2174,
+              "desc": "Fitness Center"
+            },
+            {
+              "code": 2193,
+              "desc": "Gift shop"
+            },
+            {
+              "code": 2230,
+              "desc": "Lifts"
+            },
+            {
+              "code": 2238,
+              "desc": "Luggage storage"
+            },
+            {
+              "code": 2257,
+              "desc": "Newspapers"
+            },
+            {
+              "code": 2266,
+              "desc": "Non smoking rooms"
+            },
+            {
+              "code": 2281,
+              "desc": "Pets Not Allowed"
+            },
+            {
+              "code": 2304,
+              "desc": "Restaurant(s)"
+            },
+            {
+              "code": 2307,
+              "desc": "Room Service"
+            },
+            {
+              "code": 2322,
+              "desc": "Shops"
+            },
+            {
+              "code": 2332,
+              "desc": "Smoking area"
+            },
+            {
+              "code": 2403,
+              "desc": "WIFI"
+            },
+            {
+              "code": 2425,
+              "desc": "Parking"
+            },
+            {
+              "code": 10003,
+              "desc": "Ticket Service"
+            },
+            {
+              "code": 10006,
+              "desc": "Ironing Service"
+            },
+            {
+              "code": 10215,
+              "desc": "24 Hour Front Desk"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4174999,
+      "topPick": null,
+      "trustYouReviews": null,
+      "summary": {
+        "hotelName": "Park Plaza County Hall London",
+        "lowRate": 1552.54,
+        "highRate": 7675.54,
+        "priority": 1989,
+        "score": 1989,
+        "distance": 1.0540625941922006,
+        "distanceInMeters": 1054.06,
+        "distanceScore": 0.957838,
+        "priorityScore": 0.9945,
+        "propertyType": "Motel",
+        "pricePerNight": 776.27,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 1054.06,
+            "descriptionEn": "<span>1.1 km </span>from city center of London",
+            "description": "<span>1.1 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>1.1 كم </span>من مركز مدينة London",
+            "km": 1.0540625941922006,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "1 Addington Street, Lambeth, London, SE1 7RY, United Kingdom",
+        "shortAddress": "Lambeth, Lambeth",
+        "latitude": 51.50145,
+        "longitude": -0.11586
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4174999/a_23.jpg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "hotelRating",
+          "vendor": "TripAdvisor",
+          "value": "4",
+          "imageUrl": "https://carsolizeprod.blob.core.windows.net/images/TrustYou/4.png",
+          "reviewsCount": 9427
+        },
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "4",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": 67446,
+        "propertyTypeId": 14,
+        "chainId": 1533,
+        "amenities": {
+          "roomAmenity": [
+            {
+              "code": 2038,
+              "desc": "Bathroom"
+            },
+            {
+              "code": 2125,
+              "desc": "Coffee"
+            },
+            {
+              "code": 2181,
+              "desc": "Telephone"
+            },
+            {
+              "code": 2197,
+              "desc": "Hairdryer"
+            },
+            {
+              "code": 2210,
+              "desc": "Satellite Channels"
+            },
+            {
+              "code": 2213,
+              "desc": "Iron and board"
+            },
+            {
+              "code": 2224,
+              "desc": "Kitchen"
+            },
+            {
+              "code": 2246,
+              "desc": "Microwave"
+            },
+            {
+              "code": 2298,
+              "desc": "Radio"
+            },
+            {
+              "code": 2323,
+              "desc": "Shower"
+            },
+            {
+              "code": 2365,
+              "desc": "Toiletries"
+            },
+            {
+              "code": 2474,
+              "desc": "Heating"
+            },
+            {
+              "code": 2475,
+              "desc": "Flat Screen"
+            },
+            {
+              "code": 2479,
+              "desc": "Carpeted"
+            },
+            {
+              "code": 2480,
+              "desc": "Electric kettle"
+            },
+            {
+              "code": 2481,
+              "desc": "Wake up service/Alarm clock"
+            },
+            {
+              "code": 2484,
+              "desc": "Towels"
+            },
+            {
+              "code": 2489,
+              "desc": "Wardrobe/Closet"
+            },
+            {
+              "code": 2494,
+              "desc": "Soundproofing"
+            },
+            {
+              "code": 2498,
+              "desc": "Terrace"
+            },
+            {
+              "code": 2511,
+              "desc": "Desk"
+            },
+            {
+              "code": 2515,
+              "desc": "Kitchenware"
+            },
+            {
+              "code": 2519,
+              "desc": "Laptop safe"
+            },
+            {
+              "code": 10003,
+              "desc": "Dining Table"
+            }
+          ],
+          "propertyAmenity": [
+            {
+              "code": 2007,
+              "desc": "Air conditioning"
+            },
+            {
+              "code": 2032,
+              "desc": "Bar/Snack/Cafen"
+            },
+            {
+              "code": 2035,
+              "desc": "Bars"
+            },
+            {
+              "code": 2051,
+              "desc": "Breakfast in room"
+            },
+            {
+              "code": 2058,
+              "desc": "Business Center"
+            },
+            {
+              "code": 2067,
+              "desc": "Central heating"
+            },
+            {
+              "code": 2130,
+              "desc": "Concierge"
+            },
+            {
+              "code": 2140,
+              "desc": "Currency exchange"
+            },
+            {
+              "code": 2153,
+              "desc": "Dry cleaning service"
+            },
+            {
+              "code": 2163,
+              "desc": "Express Check-in/Check-out"
+            },
+            {
+              "code": 2166,
+              "desc": "Facilities for disabled"
+            },
+            {
+              "code": 2168,
+              "desc": "FAX"
+            },
+            {
+              "code": 2174,
+              "desc": "Fitness Center"
+            },
+            {
+              "code": 2228,
+              "desc": "Laundry Service"
+            },
+            {
+              "code": 2230,
+              "desc": "Lifts"
+            },
+            {
+              "code": 2238,
+              "desc": "Luggage storage"
+            },
+            {
+              "code": 2239,
+              "desc": "Maid service"
+            },
+            {
+              "code": 2241,
+              "desc": "Massage"
+            },
+            {
+              "code": 2250,
+              "desc": "Minibar"
+            },
+            {
+              "code": 2254,
+              "desc": "Multilingual staff"
+            },
+            {
+              "code": 2257,
+              "desc": "Newspapers"
+            },
+            {
+              "code": 2266,
+              "desc": "Non smoking rooms"
+            },
+            {
+              "code": 2267,
+              "desc": "Non-smoking throughout"
+            },
+            {
+              "code": 2281,
+              "desc": "Pets Not Allowed"
+            },
+            {
+              "code": 2304,
+              "desc": "Restaurant(s)"
+            },
+            {
+              "code": 2307,
+              "desc": "Room Service"
+            },
+            {
+              "code": 2313,
+              "desc": "Sauna"
+            },
+            {
+              "code": 2337,
+              "desc": "Soundproof rooms"
+            },
+            {
+              "code": 2359,
+              "desc": "Terrace"
+            },
+            {
+              "code": 2394,
+              "desc": "Wake-Up service"
+            },
+            {
+              "code": 2401,
+              "desc": "Wheelchair accessible"
+            },
+            {
+              "code": 2403,
+              "desc": "WIFI"
+            },
+            {
+              "code": 2417,
+              "desc": "Special diets"
+            },
+            {
+              "code": 2421,
+              "desc": "Breakfast"
+            },
+            {
+              "code": 2463,
+              "desc": "Wellness center"
+            },
+            {
+              "code": 2477,
+              "desc": "Deposit Box"
+            },
+            {
+              "code": 10006,
+              "desc": "Ironing Service"
+            },
+            {
+              "code": 10007,
+              "desc": "photocopying"
+            },
+            {
+              "code": 10009,
+              "desc": "VIP Room Facilities"
+            },
+            {
+              "code": 10010,
+              "desc": "Family Rooms"
+            },
+            {
+              "code": 10014,
+              "desc": "Car Hire"
+            },
+            {
+              "code": 10018,
+              "desc": "sun terrace"
+            },
+            {
+              "code": 10019,
+              "desc": "spa"
+            },
+            {
+              "code": 10041,
+              "desc": "Meeting/Banquet Facilities"
+            },
+            {
+              "code": 10051,
+              "desc": "Tour desk"
+            },
+            {
+              "code": 10213,
+              "desc": "Iron and board"
+            },
+            {
+              "code": 10215,
+              "desc": "24 Hour Front Desk"
+            },
+            {
+              "code": 10234,
+              "desc": "Public Parking"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4175001,
+      "topPick": null,
+      "trustYouReviews": {
+        "score": "7.8",
+        "sourcesCount": 33,
+        "reviewsCount": 7697,
+        "scoreDescription": "Very good",
+        "scoreColor": "#71BC4C"
+      },
+      "summary": {
+        "hotelName": "Corus Hotel Hyde Park",
+        "lowRate": 1104.41,
+        "highRate": 2612.68,
+        "priority": 1994,
+        "score": 1994,
+        "distance": 3.486259820132897,
+        "distanceInMeters": 3486.25,
+        "distanceScore": 0.86055,
+        "priorityScore": 0.997,
+        "propertyType": "Hotel",
+        "pricePerNight": 552.205,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 3486.25,
+            "descriptionEn": "<span>3.5 km </span>from city center of London",
+            "description": "<span>3.5 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>3.5 كم </span>من مركز مدينة London",
+            "km": 3.486259820132897,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "Lancaster Gate, Westminster Borough, London, W2 3LG, United Kingdom",
+        "shortAddress": "Bayswater, Westminster Borough",
+        "latitude": 51.51187,
+        "longitude": -0.17755
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4175001/a.jpg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "hotelRating",
+          "vendor": "TripAdvisor",
+          "value": "4",
+          "imageUrl": "https://carsolizeprod.blob.core.windows.net/images/TrustYou/4.png",
+          "reviewsCount": 7703
+        },
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "4",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": 66813,
+        "propertyTypeId": 1,
+        "chainId": 841,
+        "amenities": {
+          "roomAmenity": [
+            {
+              "code": 2121,
+              "desc": "Climate control"
+            },
+            {
+              "code": 2138,
+              "desc": "Cribs Available"
+            },
+            {
+              "code": 2204,
+              "desc": "Housekeeping"
+            },
+            {
+              "code": 2398,
+              "desc": "WC"
+            },
+            {
+              "code": 2483,
+              "desc": "bathtub"
+            },
+            {
+              "code": 2516,
+              "desc": "Safe"
+            },
+            {
+              "code": 10037,
+              "desc": "Newspaper"
+            }
+          ],
+          "propertyAmenity": [
+            {
+              "code": 2020,
+              "desc": "ATM"
+            },
+            {
+              "code": 2032,
+              "desc": "Bar/Snack/Cafen"
+            },
+            {
+              "code": 2035,
+              "desc": "Bars"
+            },
+            {
+              "code": 2051,
+              "desc": "Breakfast in room"
+            },
+            {
+              "code": 2058,
+              "desc": "Business Center"
+            },
+            {
+              "code": 2067,
+              "desc": "Central heating"
+            },
+            {
+              "code": 2125,
+              "desc": "Coffee"
+            },
+            {
+              "code": 2130,
+              "desc": "Concierge"
+            },
+            {
+              "code": 2140,
+              "desc": "Currency exchange"
+            },
+            {
+              "code": 2153,
+              "desc": "Dry cleaning service"
+            },
+            {
+              "code": 2163,
+              "desc": "Express Check-in/Check-out"
+            },
+            {
+              "code": 2168,
+              "desc": "FAX"
+            },
+            {
+              "code": 2174,
+              "desc": "Fitness Center"
+            },
+            {
+              "code": 2228,
+              "desc": "Laundry Service"
+            },
+            {
+              "code": 2230,
+              "desc": "Lifts"
+            },
+            {
+              "code": 2238,
+              "desc": "Luggage storage"
+            },
+            {
+              "code": 2254,
+              "desc": "Multilingual staff"
+            },
+            {
+              "code": 2257,
+              "desc": "Newspapers"
+            },
+            {
+              "code": 2266,
+              "desc": "Non smoking rooms"
+            },
+            {
+              "code": 2267,
+              "desc": "Non-smoking throughout"
+            },
+            {
+              "code": 2281,
+              "desc": "Pets Not Allowed"
+            },
+            {
+              "code": 2304,
+              "desc": "Restaurant(s)"
+            },
+            {
+              "code": 2307,
+              "desc": "Room Service"
+            },
+            {
+              "code": 2324,
+              "desc": "Shuttle service"
+            },
+            {
+              "code": 2359,
+              "desc": "Terrace"
+            },
+            {
+              "code": 2386,
+              "desc": "Vending machines"
+            },
+            {
+              "code": 2403,
+              "desc": "WIFI"
+            },
+            {
+              "code": 2421,
+              "desc": "Breakfast"
+            },
+            {
+              "code": 10003,
+              "desc": "Ticket Service"
+            },
+            {
+              "code": 10006,
+              "desc": "Ironing Service"
+            },
+            {
+              "code": 10009,
+              "desc": "VIP Room Facilities"
+            },
+            {
+              "code": 10010,
+              "desc": "Family Rooms"
+            },
+            {
+              "code": 10014,
+              "desc": "Car Hire"
+            },
+            {
+              "code": 10052,
+              "desc": "Trouser press"
+            },
+            {
+              "code": 10215,
+              "desc": "24 Hour Front Desk"
+            },
+            {
+              "code": 10224,
+              "desc": "Safe"
+            },
+            {
+              "code": 10234,
+              "desc": "Public Parking"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "icons": [
+    "play",
+    "sound",
+    "image",
+    "chevron-right",
+    "chevron-left",
+    "chevron-up",
+    "chevron-down",
+    "arrow-up",
+    "arrow-down",
+    "arrow-right",
+    "arrow-left",
+    "home",
+    "phone",
+    "pin",
+    "envelope",
+    "date",
+    "search",
+    "share",
+    "folder",
+    "user",
+    "upload",
+    "download",
+    "link",
+    "trash",
+    "close",
+    "calendar",
+    "check",
+    "crop",
+    "minimize",
+    "maxmize",
+    "star",
+    "star-half",
+    "star-filled",
+    "facebook",
+    "twitter",
+    "googlePlus",
+    "plus",
+    "youtube",
+    "Instagram"
+  ]
+}

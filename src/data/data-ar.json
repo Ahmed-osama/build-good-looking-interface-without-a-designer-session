@@ -1,0 +1,2077 @@
+{
+  "nav": {
+    "index": {
+      "name": "الرئيسية",
+      "link": "index-ar.html"
+    },
+    "lang": {
+      "name": "en",
+      "link": "index-en.html"
+    },
+    "icons": {
+      "name": "الأيقونات",
+      "link": "icons-ar.html"
+    },
+    "guide": {
+      "name": "المكتبة",
+      "link": "guide-ar.html"
+    }
+  },
+  "cta": {
+    "title": "رحالة دليلك للسفر حول العالم",
+    "btn": "اكتشف الان"
+  },
+
+  "sections": {
+    "titels": ["السفر للسياحة", "السفر للتعليم", "السفر للعمل", "الهجرة"],
+
+    "sub": [
+      {
+        "name": "فرص",
+        "link": "section.html"
+      },
+      {
+        "name": "نصائح",
+        "link": "section.html"
+      },
+      {
+        "name": "تجارب",
+        "link": "section.html"
+      }
+    ]
+  },
+  "social": [
+    {
+      "class": "facebook",
+      "icon": "mdi-facebook"
+    },
+    {
+      "class": "twitter",
+      "icon": "mdi-twitter"
+    },
+    {
+      "class": "youtube",
+      "icon": "mdi-youtube-play"
+    },
+    {
+      "class": "googlePlus",
+      "icon": "mdi-youtube-play"
+    },
+    {
+      "class": "Instagram",
+      "icon": "mdi-youtube-play"
+    }
+  ],
+  "guidelist": [
+    "اشعل حماسك",
+    "توفير المال قبل انت تذهب",
+    "التأمين",
+    "الحصور علي تذكرة الطيران",
+    "الحصور علي اقامة رخصية",
+    "توفير المال عالطريق",
+    "نصائح السفر للأزواج",
+    "منفرد انثي السفر"
+  ],
+  "content": [
+    {
+      "hotelId": 4023165,
+      "topPick": null,
+      "trustYouReviews": {
+        "score": "7.5",
+        "sourcesCount": 17,
+        "reviewsCount": 1192,
+        "scoreDescription": "جيد جدا",
+        "scoreColor": "#71BC4C"
+      },
+      "summary": {
+        "hotelName": "فندق بروك كينغستون لودج",
+        "lowRate": 916.72,
+        "highRate": 2250.62,
+        "priority": 0,
+        "score": 3.99882,
+        "distance": 14.39418725696164,
+        "distanceInMeters": 14394.18,
+        "distanceScore": 0.424233,
+        "priorityScore": 0,
+        "propertyType": "الفندق",
+        "pricePerNight": 458.36,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 14394.18,
+            "descriptionEn": "<span>14 km </span>from city center of London",
+            "description": "<span>14 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>14 كم </span>من مركز مدينة London",
+            "km": 14.39418725696164,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "(كنغستون أبون تامْسْ, المملكة المتحدة)  94 Kingston Hill,, KT2 7NP,",
+        "shortAddress": "Wimbledon",
+        "latitude": 51.41874,
+        "longitude": -0.27891
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4023165/esd_29.jpg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "hotelRating",
+          "vendor": "TripAdvisor",
+          "value": "4",
+          "imageUrl": "https://carsolizeprod.blob.core.windows.net/images/TrustYou/4.png",
+          "reviewsCount": 847
+        },
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "4",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": 5327,
+        "propertyTypeId": 1,
+        "chainId": 1053,
+        "amenities": {
+          "roomAmenity": [
+            { "code": 2001, "desc": "خدمة الغرف" },
+            { "code": 2006, "desc": "غرف متصلة" },
+            { "code": 2007, "desc": "مُكيف هواء" },
+            { "code": 2038, "desc": "حمام" },
+            { "code": 2125, "desc": "قهوة" },
+            { "code": 2138, "desc": "أسرّة متوفرة" },
+            { "code": 2172, "desc": "مدفأة" },
+            { "code": 2178, "desc": "زُجاجات مياة" },
+            { "code": 2185, "desc": "خدمة واي فاي مجانية" },
+            { "code": 2197, "desc": "مجفف شعر" },
+            { "code": 2204, "desc": "خدمة تنظيف وتدبير الغرف" },
+            { "code": 2213, "desc": "مكواة وطاولة كىّ" },
+            { "code": 2323, "desc": "دُش" },
+            { "code": 2335, "desc": "سرير أريكة" },
+            { "code": 2365, "desc": "مستحضرات العناية الشخصية" },
+            { "code": 2383, "desc": "تلفاز" }
+          ],
+          "propertyAmenity": [
+            { "code": 2031, "desc": "بار / صالة استراحة" },
+            { "code": 2124, "desc": "موقف لصف الحافلات" },
+            { "code": 2129, "desc": "غرفة كمبيوتر" },
+            { "code": 2130, "desc": "خدمة الاستعلامات والإرشاد" },
+            { "code": 2144, "desc": "مكتب" },
+            { "code": 2153, "desc": "خدمة التنظيف الجاف" },
+            {
+              "code": 2163,
+              "desc": "خدمة سرعة إنهاء إجراءات الوصول والمغادرة"
+            },
+            { "code": 2164, "desc": "خدمة تسجيل الوصول والمغادرة الخاصة" },
+            { "code": 2179, "desc": "موقف لصف السيارات" },
+            { "code": 2182, "desc": "صُحف مجانية" },
+            { "code": 2189, "desc": "حديقة" },
+            { "code": 2228, "desc": "خدمة غسل الملابس" },
+            { "code": 2238, "desc": "خدمة تخزين الأمتعة" },
+            { "code": 2244, "desc": "غرفة اجتماعات" },
+            { "code": 2269, "desc": "عدد الطوابق - أقل من 10" },
+            { "code": 2304, "desc": "مطعم  (مطاعم)" },
+            { "code": 2332, "desc": "منطقة مخصصة للتدخين" },
+            { "code": 2348, "desc": "نظير تكلفة إضافية" },
+            { "code": 2359, "desc": "شرفة" },
+            { "code": 2367, "desc": "إجمالي عدد الغرف51 - 100" },
+            { "code": 2399, "desc": "خدمات حفلات الزفاف" }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4091339,
+      "topPick": null,
+      "trustYouReviews": {
+        "score": "8.2",
+        "sourcesCount": 26,
+        "reviewsCount": 1361,
+        "scoreDescription": "جيد جدا",
+        "scoreColor": "#71BC4C"
+      },
+      "summary": {
+        "hotelName": "Sheraton Heathrow Hotel",
+        "lowRate": 892.91,
+        "highRate": 1828.9,
+        "priority": 0,
+        "score": 3.9993,
+        "distance": 25,
+        "distanceInMeters": 25000,
+        "distanceScore": 0,
+        "priorityScore": 0,
+        "propertyType": "الفندق",
+        "pricePerNight": 446.455,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 25000,
+            "descriptionEn": "<span>25 km </span>from city center of London",
+            "description": "<span>25 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>25 كم </span>من مركز مدينة London",
+            "km": 25,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "Colnbrook Bypass, Heathrow, UB7 0HJ, United Kingdom",
+        "shortAddress": "Heathrow Airport, Heathrow",
+        "latitude": -0.48134,
+        "longitude": 51.48328
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://az712897.vo.msecnd.net/images/full/d3065c5b-25ab-4d35-b339-22b5d7ccc981.jpeg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "hotelRating",
+          "vendor": "TripAdvisor",
+          "value": "4",
+          "imageUrl": "https://carsolizeprod.blob.core.windows.net/images/TrustYou/4.png",
+          "reviewsCount": 1433
+        },
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "4",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": 3083,
+        "propertyTypeId": 1,
+        "chainId": 11,
+        "amenities": {
+          "roomAmenity": [
+            { "code": 2001, "desc": "خدمة الغرف" },
+            { "code": 2007, "desc": "مُكيف هواء" },
+            { "code": 2037, "desc": "رداء الحمام" },
+            { "code": 2038, "desc": "حمام" },
+            { "code": 2125, "desc": "قهوة" },
+            { "code": 2138, "desc": "أسرّة متوفرة" },
+            { "code": 2197, "desc": "مجفف شعر" },
+            { "code": 2204, "desc": "خدمة تنظيف وتدبير الغرف" },
+            { "code": 2213, "desc": "مكواة وطاولة كىّ" },
+            { "code": 2250, "desc": "ميني بار" },
+            { "code": 2297, "desc": "خدمة إنترنت" },
+            { "code": 2323, "desc": "دُش" },
+            { "code": 2335, "desc": "سرير أريكة" },
+            { "code": 2365, "desc": "مستحضرات العناية الشخصية" },
+            { "code": 2383, "desc": "تلفاز" },
+            { "code": 2387, "desc": "فيديو" }
+          ],
+          "propertyAmenity": [
+            { "code": 2020, "desc": "ماكينة صراف آلي" },
+            { "code": 2031, "desc": "بار / صالة استراحة" },
+            { "code": 2032, "desc": "بار / وجبات خفيفة / مقهى" },
+            { "code": 2044, "desc": "حامل الحقائب" },
+            { "code": 2058, "desc": "مركز خدمة رجال الأعمال" },
+            { "code": 2129, "desc": "غرفة كمبيوتر" },
+            { "code": 2130, "desc": "خدمة الاستعلامات والإرشاد" },
+            { "code": 2144, "desc": "مكتب" },
+            { "code": 2153, "desc": "خدمة التنظيف الجاف" },
+            {
+              "code": 2163,
+              "desc": "خدمة سرعة إنهاء إجراءات الوصول والمغادرة"
+            },
+            { "code": 2164, "desc": "خدمة تسجيل الوصول والمغادرة الخاصة" },
+            { "code": 2189, "desc": "حديقة" },
+            { "code": 2193, "desc": "محل هدايا" },
+            { "code": 2228, "desc": "خدمة غسل الملابس" },
+            { "code": 2230, "desc": "مصاعد" },
+            { "code": 2238, "desc": "خدمة تخزين الأمتعة" },
+            { "code": 2254, "desc": "طاقم عمل يجيد عدة لغات" },
+            { "code": 2269, "desc": "عدد الطوابق - أقل من 10" },
+            { "code": 2304, "desc": "مطعم  (مطاعم)" },
+            { "code": 2310, "desc": "خزينة" },
+            { "code": 2316, "desc": "وجبة غداء" },
+            { "code": 2322, "desc": "محلات تجارية" },
+            { "code": 2348, "desc": "نظير تكلفة إضافية" },
+            { "code": 2373, "desc": "إجمالي عدد الغرف 400+" },
+            { "code": 2399, "desc": "خدمات حفلات الزفاف" }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4091354,
+      "topPick": null,
+      "trustYouReviews": {
+        "score": "8.6",
+        "sourcesCount": 28,
+        "reviewsCount": 5578,
+        "scoreDescription": "ممتاز",
+        "scoreColor": "#129911"
+      },
+      "summary": {
+        "hotelName": "Renaissance London Heathrow Hotel",
+        "lowRate": 984.32,
+        "highRate": 2391.28,
+        "priority": 0,
+        "score": 4.49972,
+        "distance": 22.273963090751117,
+        "distanceInMeters": 22273.96,
+        "distanceScore": 0.109042,
+        "priorityScore": 0,
+        "propertyType": "الفندق",
+        "pricePerNight": 492.16,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 22273.96,
+            "descriptionEn": "<span>22 km </span>from city center of London",
+            "description": "<span>22 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>22 كم </span>من مركز مدينة London",
+            "km": 22.273963090751117,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "Bath Road, TW6 2AQ,  (هيثرو, المملكة المتحدة)",
+        "shortAddress": "London Heathrow Airport",
+        "latitude": 51.48095,
+        "longitude": -0.44633
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4091354/esd_1.jpg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "hotelRating",
+          "vendor": "TripAdvisor",
+          "value": "4.5",
+          "imageUrl": "https://carsolizeprod.blob.core.windows.net/images/TrustYou/4_5.png",
+          "reviewsCount": 5274
+        },
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "4",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": 5956,
+        "propertyTypeId": 1,
+        "chainId": 811,
+        "amenities": {
+          "roomAmenity": [
+            { "code": 2001, "desc": "خدمة الغرف" },
+            { "code": 2038, "desc": "حمام" },
+            { "code": 2125, "desc": "قهوة" },
+            { "code": 2185, "desc": "خدمة واي فاي مجانية" },
+            { "code": 2197, "desc": "مجفف شعر" },
+            { "code": 2204, "desc": "خدمة تنظيف وتدبير الغرف" },
+            { "code": 2213, "desc": "مكواة وطاولة كىّ" },
+            { "code": 2250, "desc": "ميني بار" },
+            { "code": 2323, "desc": "دُش" },
+            { "code": 2335, "desc": "سرير أريكة" },
+            { "code": 2383, "desc": "تلفاز" }
+          ],
+          "propertyAmenity": [
+            { "code": 2007, "desc": "مُكيّف هواء" },
+            { "code": 2020, "desc": "ماكينة صراف آلي" },
+            { "code": 2031, "desc": "بار / صالة استراحة" },
+            { "code": 2130, "desc": "خدمة الاستعلامات والإرشاد" },
+            { "code": 2138, "desc": "تتوفر أسرّة" },
+            { "code": 2144, "desc": "مكتب" },
+            { "code": 2153, "desc": "خدمة التنظيف الجاف" },
+            {
+              "code": 2163,
+              "desc": "خدمة سرعة إنهاء إجراءات الوصول والمغادرة"
+            },
+            { "code": 2164, "desc": "خدمة تسجيل الوصول والمغادرة الخاصة" },
+            { "code": 2182, "desc": "صُحف مجانية" },
+            { "code": 2189, "desc": "حديقة" },
+            { "code": 2193, "desc": "محل هدايا" },
+            { "code": 2199, "desc": "منتجع صحي" },
+            { "code": 2228, "desc": "خدمة غسل الملابس" },
+            { "code": 2230, "desc": "مصاعد" },
+            { "code": 2238, "desc": "خدمة تخزين الأمتعة" },
+            { "code": 2244, "desc": "غرفة اجتماعات" },
+            { "code": 2254, "desc": "طاقم عمل يجيد عدة لغات" },
+            { "code": 2269, "desc": "عدد الطوابق - أقل من 10" },
+            { "code": 2304, "desc": "مطعم  (مطاعم)" },
+            { "code": 2310, "desc": "خزينة" },
+            { "code": 2313, "desc": "ساونا" },
+            { "code": 2316, "desc": "خدمة صف السيارات بواسطة النزيل" },
+            { "code": 2348, "desc": "نظير تكلفة إضافية" },
+            { "code": 2453, "desc": "نادي صحي" },
+            { "code": 2464, "desc": "غرفة بخار" }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4095875,
+      "topPick": null,
+      "trustYouReviews": null,
+      "summary": {
+        "hotelName": "مركيور لندن واتفورد هوتل",
+        "lowRate": 677.8,
+        "highRate": 1291.29,
+        "priority": 0,
+        "score": 3.49987,
+        "distance": 22.6663101744388,
+        "distanceInMeters": 22666.31,
+        "distanceScore": 0.093348,
+        "priorityScore": 0,
+        "propertyType": "فندق سيارات",
+        "pricePerNight": 338.9,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 22666.31,
+            "descriptionEn": "<span>23 km </span>from city center of London",
+            "description": "<span>23 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>23 كم </span>من مركز مدينة London",
+            "km": 22.6663101744388,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "A41 Watford Bypass, WD25 8JH (واتفورد, المملكة المتحدة)",
+        "shortAddress": "Watford, Hertfordshire",
+        "latitude": 51.65778,
+        "longitude": -0.34859
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4095875/1_1.jpg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "hotelRating",
+          "vendor": "TripAdvisor",
+          "value": "3.5",
+          "imageUrl": "https://carsolizeprod.blob.core.windows.net/images/TrustYou/3_5.png",
+          "reviewsCount": 3717
+        },
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "4",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": 3218,
+        "propertyTypeId": 12,
+        "chainId": 1728,
+        "amenities": {
+          "roomAmenity": [
+            { "code": 2001, "desc": "خدمة الغرف" },
+            { "code": 2038, "desc": "حمام" },
+            { "code": 2138, "desc": "أسرّة متوفرة" },
+            { "code": 2178, "desc": "زُجاجات مياة" },
+            { "code": 2185, "desc": "خدمة واي فاي مجانية" },
+            { "code": 2197, "desc": "مجفف شعر" },
+            { "code": 2204, "desc": "خدمة تنظيف وتدبير الغرف" },
+            { "code": 2213, "desc": "مكواة وطاولة كىّ" },
+            { "code": 2323, "desc": "دُش" },
+            { "code": 2335, "desc": "سرير أريكة" },
+            { "code": 2365, "desc": "مستحضرات العناية الشخصية" }
+          ],
+          "propertyAmenity": [
+            { "code": 2035, "desc": "بارات" },
+            { "code": 2051, "desc": "خدمة الإفطار في الغرفة" },
+            { "code": 2067, "desc": "خدمة تدفئة مركزية" },
+            { "code": 2125, "desc": "قهوة" },
+            { "code": 2153, "desc": "خدمة التنظيف الجاف" },
+            {
+              "code": 2163,
+              "desc": "خدمة سرعة إنهاء إجراءات الوصول والمغادرة"
+            },
+            {
+              "code": 2166,
+              "desc": "خدمات مناسبة للنزلاء من ذوي القدرات الخاصة"
+            },
+            { "code": 2168, "desc": "فاكس" },
+            { "code": 2174, "desc": "صالة لياقة بدنية" },
+            { "code": 2189, "desc": "حديقة" },
+            { "code": 2194, "desc": "ملعب جولف" },
+            { "code": 2207, "desc": "حمام سباحة داخلي" },
+            { "code": 2228, "desc": "خدمة غسل الملابس" },
+            { "code": 2238, "desc": "خدمة تخزين الأمتعة" },
+            { "code": 2257, "desc": "صُحف" },
+            { "code": 2267, "desc": "ممنوع التدخين في جميع أنحاء الفندق" },
+            { "code": 2271, "desc": "جاكوزي" },
+            { "code": 2281, "desc": "لا يُسمح باصطحاب الحيوانات الأليفة" },
+            { "code": 2304, "desc": "مطعم  (مطاعم)" },
+            { "code": 2307, "desc": "خدمة الغرف" },
+            { "code": 2313, "desc": "ساونا" },
+            { "code": 2352, "desc": "حمام سباحة" },
+            { "code": 2359, "desc": "شرفة" },
+            { "code": 2383, "desc": "تلفاز" },
+            { "code": 2403, "desc": "خدمة واي فاي" },
+            { "code": 2417, "desc": "أنظمة غذائية خاصة" },
+            { "code": 2421, "desc": "وجبة افطار" },
+            { "code": 2425, "desc": "موقف للسيارات" },
+            { "code": 10007, "desc": "خدمة نسخ المستندات" },
+            { "code": 10041, "desc": "مرافق الاجتماعات والمناسبات" },
+            { "code": 10175, "desc": "حمام تركي" },
+            { "code": 10215, "desc": "مكتب استقبال يعمل على مدار 24 ساعة" }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4096594,
+      "topPick": null,
+      "trustYouReviews": null,
+      "summary": {
+        "hotelName": "فندق ميتري",
+        "lowRate": 1665.47,
+        "highRate": 1665.47,
+        "priority": 0,
+        "score": 3.99937,
+        "distance": 18.778110964524945,
+        "distanceInMeters": 18778.11,
+        "distanceScore": 0.248876,
+        "priorityScore": 0,
+        "propertyType": "فندق",
+        "pricePerNight": 832.735,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 18778.11,
+            "descriptionEn": "<span>19 km </span>from city center of London",
+            "description": "<span>19 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>19 كم </span>من مركز مدينة London",
+            "km": 18.778110964524945,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "Hampton Court Road, East Molesey , KT8 9BN, (كنغستون أبون تامْسْ, المملكة المتحدة)",
+        "shortAddress": "هامبتون ويك",
+        "latitude": 51.40453,
+        "longitude": -0.34237
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4096594/1_2.jpg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "hotelRating",
+          "vendor": "TripAdvisor",
+          "value": "4",
+          "imageUrl": "https://carsolizeprod.blob.core.windows.net/images/TrustYou/4.png",
+          "reviewsCount": 1583
+        },
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "4",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": null,
+        "propertyTypeId": 14,
+        "chainId": 361,
+        "amenities": {
+          "roomAmenity": [
+            { "code": 2125, "desc": "قهوة" },
+            { "code": 2185, "desc": "خدمة واي فاي مجانية" }
+          ],
+          "propertyAmenity": [
+            { "code": 2035, "desc": "بارات" },
+            { "code": 2067, "desc": "خدمة تدفئة مركزية" },
+            { "code": 2153, "desc": "خدمة التنظيف الجاف" },
+            {
+              "code": 2166,
+              "desc": "خدمات مناسبة للنزلاء من ذوي القدرات الخاصة"
+            },
+            { "code": 2168, "desc": "فاكس" },
+            { "code": 2194, "desc": "ملعب جولف" },
+            { "code": 2228, "desc": "خدمة غسل الملابس" },
+            { "code": 2229, "desc": "مكتبة" },
+            { "code": 2230, "desc": "مصاعد" },
+            { "code": 2254, "desc": "طاقم عمل يجيد عدة لغات" },
+            { "code": 2257, "desc": "صُحف" },
+            { "code": 2266, "desc": "غرف لغير المدخنين" },
+            { "code": 2267, "desc": "ممنوع التدخين في جميع أنحاء الفندق" },
+            { "code": 2280, "desc": "يُسمح باصطحاب الحيوانات الأليفة" },
+            { "code": 2304, "desc": "مطعم  (مطاعم)" },
+            { "code": 2307, "desc": "خدمة الغرف" },
+            { "code": 2359, "desc": "شرفة" },
+            { "code": 2403, "desc": "خدمة واي فاي" },
+            { "code": 2421, "desc": "وجبة افطار" },
+            { "code": 2450, "desc": "منطقة لممارسة رياضة المشي لمسافات طويلة" },
+            { "code": 2477, "desc": "صندوق أمانات" },
+            { "code": 10006, "desc": "خدمة كي الملابس" },
+            { "code": 10007, "desc": "خدمة نسخ المستندات" },
+            { "code": 10010, "desc": "غرف للعائلات" },
+            { "code": 10015, "desc": "مرافق لحفلات الشواء" },
+            { "code": 10026, "desc": "جناح العرائس" },
+            { "code": 10041, "desc": "مرافق الاجتماعات والمناسبات" },
+            { "code": 10167, "desc": "غرفة خالية من مثيرات الحساسية" },
+            { "code": 10215, "desc": "مكتب استقبال يعمل على مدار 24 ساعة" },
+            { "code": 10233, "desc": " موقف صف سيارات خاص" }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4102341,
+      "topPick": null,
+      "trustYouReviews": {
+        "score": "8.4",
+        "sourcesCount": 15,
+        "reviewsCount": 1428,
+        "scoreDescription": "جيد جدا",
+        "scoreColor": "#71BC4C"
+      },
+      "summary": {
+        "hotelName": "فندق لندن ماريوت تويكنهام",
+        "lowRate": 639.47,
+        "highRate": 1227.24,
+        "priority": 5,
+        "score": 5,
+        "distance": 15.827264936429598,
+        "distanceInMeters": 15827.26,
+        "distanceScore": 0.36691,
+        "priorityScore": 0.0025,
+        "propertyType": "فندق سيارات",
+        "pricePerNight": 319.735,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 15827.26,
+            "descriptionEn": "<span>16 km </span>from city center of London",
+            "description": "<span>16 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>16 كم </span>من مركز مدينة London",
+            "km": 15.827264936429598,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "(تويكنهام, المملكة المتحدة)  198 Whitton Road, Twickenham, TW2 7BA, United Kingdom",
+        "shortAddress": "",
+        "latitude": 51.45472,
+        "longitude": -0.33984
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4102341/5646001.jpg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "hotelRating",
+          "vendor": "TripAdvisor",
+          "value": "4",
+          "imageUrl": "https://carsolizeprod.blob.core.windows.net/images/TrustYou/4.png",
+          "reviewsCount": 1368
+        },
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "4",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": null,
+        "propertyTypeId": 12,
+        "chainId": 811,
+        "amenities": {
+          "roomAmenity": [
+            { "code": 2006, "desc": "غرف متصلة" },
+            { "code": 2007, "desc": "مُكيف هواء" },
+            { "code": 2038, "desc": "حمام" },
+            { "code": 2121, "desc": "خاصية التحكم في درجات الحرارة" },
+            { "code": 2178, "desc": "زُجاجات مياة" },
+            { "code": 2181, "desc": "هاتف" },
+            { "code": 2204, "desc": "خدمة تنظيف وتدبير الغرف" },
+            { "code": 2210, "desc": "قنوات فضائية" },
+            { "code": 2383, "desc": "تلفاز" },
+            { "code": 2474, "desc": "مدفأة" },
+            { "code": 2477, "desc": "خزنة" },
+            { "code": 2513, "desc": "ماكينة تحضير الشاي والقهوة" },
+            { "code": 10003, "desc": "طاولة طعام" },
+            { "code": 10019, "desc": "سرير إضافي" },
+            { "code": 10037, "desc": "صحف" },
+            { "code": 10041, "desc": "تلفاز" }
+          ],
+          "propertyAmenity": [
+            { "code": 2020, "desc": "ماكينة صراف آلي" },
+            { "code": 2031, "desc": "بار / صالة استراحة" },
+            { "code": 2035, "desc": "بارات" },
+            { "code": 2058, "desc": "مركز خدمة رجال الأعمال" },
+            { "code": 2067, "desc": "خدمة تدفئة مركزية" },
+            { "code": 2130, "desc": "خدمة الاستعلامات والإرشاد" },
+            { "code": 2140, "desc": "خدمات الصرافة" },
+            { "code": 2153, "desc": "خدمة التنظيف الجاف" },
+            {
+              "code": 2166,
+              "desc": "خدمات مناسبة للنزلاء من ذوي القدرات الخاصة"
+            },
+            { "code": 2174, "desc": "صالة لياقة بدنية" },
+            { "code": 2207, "desc": "حمام سباحة داخلي" },
+            { "code": 2228, "desc": "خدمة غسل الملابس" },
+            { "code": 2230, "desc": "مصاعد" },
+            { "code": 2237, "desc": "غرفة الأمتعة" },
+            { "code": 2244, "desc": "غرفة اجتماعات" },
+            { "code": 2257, "desc": "صُحف" },
+            { "code": 2266, "desc": "غرف لغير المدخنين" },
+            { "code": 2281, "desc": "لا يُسمح باصطحاب الحيوانات الأليفة" },
+            { "code": 2304, "desc": "مطعم  (مطاعم)" },
+            { "code": 2307, "desc": "خدمة الغرف" },
+            { "code": 2357, "desc": "هاتف" },
+            { "code": 2399, "desc": "خدمات حفلات الزفاف" },
+            { "code": 2421, "desc": "وجبة افطار" },
+            { "code": 2425, "desc": "موقف للسيارات" },
+            { "code": 2453, "desc": "نادي صحي" },
+            { "code": 2463, "desc": "مركز صحة بدنية" },
+            { "code": 10008, "desc": "مصعد" },
+            { "code": 10193, "desc": "مرحاض" },
+            { "code": 10215, "desc": "مكتب استقبال يعمل على مدار 24 ساعة" }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4124820,
+      "topPick": null,
+      "trustYouReviews": {
+        "score": "8.7",
+        "sourcesCount": 20,
+        "reviewsCount": 1147,
+        "scoreDescription": "ممتاز",
+        "scoreColor": "#129911"
+      },
+      "summary": {
+        "hotelName": "Holiday Inn Express London - Epsom Downs",
+        "lowRate": 725.74,
+        "highRate": 877.7,
+        "priority": 0,
+        "score": 4.49873,
+        "distance": 23.470412413214436,
+        "distanceInMeters": 23470.41,
+        "distanceScore": 0.061184,
+        "priorityScore": 0,
+        "propertyType": "فندق سيارات",
+        "pricePerNight": 362.87,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 23470.41,
+            "descriptionEn": "<span>23 km </span>from city center of London",
+            "description": "<span>23 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>23 كم </span>من مركز مدينة London",
+            "km": 23.470412413214436,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "Langley Vale Road, KT18 5LG, (إبسوم, المملكة المتحدة)",
+        "shortAddress": "Epsom Downs Racecourse, England",
+        "latitude": 51.31325,
+        "longitude": -0.25975
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4124820/1_1.jpg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "hotelRating",
+          "vendor": "TripAdvisor",
+          "value": "4.5",
+          "imageUrl": "https://carsolizeprod.blob.core.windows.net/images/TrustYou/4_5.png",
+          "reviewsCount": 1185
+        },
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "3",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": 3976,
+        "propertyTypeId": 12,
+        "chainId": 1300,
+        "amenities": {
+          "roomAmenity": [
+            { "code": 2006, "desc": "غرف متصلة" },
+            { "code": 2007, "desc": "مُكيف هواء" },
+            { "code": 2038, "desc": "حمام" },
+            { "code": 2138, "desc": "أسرّة متوفرة" },
+            { "code": 2185, "desc": "خدمة واي فاي مجانية" },
+            { "code": 2197, "desc": "مجفف شعر" },
+            { "code": 2204, "desc": "خدمة تنظيف وتدبير الغرف" },
+            { "code": 2323, "desc": "دُش" },
+            { "code": 2383, "desc": "تلفاز" },
+            { "code": 2477, "desc": "خزنة" },
+            { "code": 10007, "desc": "ورق حمّام" },
+            { "code": 10041, "desc": "تلفاز" }
+          ],
+          "propertyAmenity": [
+            { "code": 2032, "desc": "بار / وجبات خفيفة / مقهى" },
+            { "code": 2035, "desc": "بارات" },
+            { "code": 2067, "desc": "خدمة تدفئة مركزية" },
+            { "code": 2125, "desc": "قهوة" },
+            { "code": 2153, "desc": "خدمة التنظيف الجاف" },
+            {
+              "code": 2163,
+              "desc": "خدمة سرعة إنهاء إجراءات الوصول والمغادرة"
+            },
+            {
+              "code": 2166,
+              "desc": "خدمات مناسبة للنزلاء من ذوي القدرات الخاصة"
+            },
+            { "code": 2168, "desc": "فاكس" },
+            { "code": 2201, "desc": "رياضة ركوب الخيل" },
+            { "code": 2230, "desc": "مصاعد" },
+            { "code": 2238, "desc": "خدمة تخزين الأمتعة" },
+            { "code": 2254, "desc": "طاقم عمل يجيد عدة لغات" },
+            { "code": 2257, "desc": "صُحف" },
+            { "code": 2266, "desc": "غرف لغير المدخنين" },
+            { "code": 2267, "desc": "ممنوع التدخين في جميع أنحاء الفندق" },
+            { "code": 2281, "desc": "لا يُسمح باصطحاب الحيوانات الأليفة" },
+            { "code": 2386, "desc": "ماكينات البيع" },
+            { "code": 2403, "desc": "خدمة واي فاي" },
+            { "code": 2421, "desc": "وجبة افطار" },
+            { "code": 2425, "desc": "موقف للسيارات" },
+            { "code": 2450, "desc": "منطقة لممارسة رياضة المشي لمسافات طويلة" },
+            { "code": 10170, "desc": "رياضة ركوب الدراجات" },
+            { "code": 10215, "desc": "مكتب استقبال يعمل على مدار 24 ساعة" }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4165296,
+      "topPick": null,
+      "trustYouReviews": {
+        "score": "7.3",
+        "sourcesCount": 16,
+        "reviewsCount": 1353,
+        "scoreDescription": "جيد",
+        "scoreColor": "#A1CC4F"
+      },
+      "summary": {
+        "hotelName": "The Continental Hotel, Heathrow",
+        "lowRate": 659.36,
+        "highRate": 1030.01,
+        "priority": 0,
+        "score": 3.49963,
+        "distance": 17.051706426129346,
+        "distanceInMeters": 17051.7,
+        "distanceScore": 0.317932,
+        "priorityScore": 0,
+        "propertyType": "الفندق",
+        "pricePerNight": 329.68,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 17051.7,
+            "descriptionEn": "<span>17 km </span>from city center of London",
+            "description": "<span>17 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>17 كم </span>من مركز مدينة London",
+            "km": 17.051706426129346,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "29-31 Lampton Road, TW3 1JA, (هاونسلو, المملكة المتحدة)",
+        "shortAddress": "Waltham Forest, Hounslow",
+        "latitude": 51.46962,
+        "longitude": -0.36618
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4165296/the_continental-hotel.jpg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "hotelRating",
+          "vendor": "TripAdvisor",
+          "value": "3.5",
+          "imageUrl": "https://carsolizeprod.blob.core.windows.net/images/TrustYou/3_5.png",
+          "reviewsCount": 1357
+        },
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "4",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": 8370,
+        "propertyTypeId": 1,
+        "chainId": 654,
+        "amenities": {
+          "roomAmenity": [
+            { "code": 2001, "desc": "خدمة الغرف" },
+            { "code": 2006, "desc": "غرف متصلة" },
+            { "code": 2007, "desc": "مُكيف هواء" },
+            { "code": 2037, "desc": "رداء الحمام" },
+            { "code": 2038, "desc": "حمام" },
+            { "code": 2138, "desc": "أسرّة متوفرة" },
+            {
+              "code": 2180,
+              "desc": "اتصال مجاني بالإنترنت (في صالة الاستراحة)"
+            },
+            { "code": 2185, "desc": "خدمة واي فاي مجانية" },
+            { "code": 2197, "desc": "مجفف شعر" },
+            { "code": 2213, "desc": "مكواة وطاولة كىّ" },
+            { "code": 2250, "desc": "ميني بار" },
+            { "code": 2323, "desc": "دُش" },
+            { "code": 2335, "desc": "سرير أريكة" },
+            { "code": 2383, "desc": "تلفاز" }
+          ],
+          "propertyAmenity": [
+            { "code": 2035, "desc": "بارات" },
+            { "code": 2067, "desc": "خدمة تدفئة مركزية" },
+            { "code": 2125, "desc": "قهوة" },
+            { "code": 2130, "desc": "خدمة الاستعلامات والإرشاد" },
+            { "code": 2153, "desc": "خدمة التنظيف الجاف" },
+            {
+              "code": 2163,
+              "desc": "خدمة سرعة إنهاء إجراءات الوصول والمغادرة"
+            },
+            { "code": 2164, "desc": "خدمة تسجيل الوصول والمغادرة الخاصة" },
+            {
+              "code": 2166,
+              "desc": "خدمات مناسبة للنزلاء من ذوي القدرات الخاصة"
+            },
+            { "code": 2168, "desc": "فاكس" },
+            { "code": 2196, "desc": "صالة ألعاب رياضية" },
+            { "code": 2204, "desc": "خدمة الغرف" },
+            { "code": 2207, "desc": "حمام سباحة داخلي" },
+            { "code": 2228, "desc": "خدمة غسل الملابس" },
+            { "code": 2230, "desc": "مصاعد" },
+            { "code": 2238, "desc": "خدمة تخزين الأمتعة" },
+            { "code": 2239, "desc": "خدمة الغرف" },
+            { "code": 2241, "desc": "مساج" },
+            { "code": 2254, "desc": "طاقم عمل يجيد عدة لغات" },
+            { "code": 2266, "desc": "غرف لغير المدخنين" },
+            { "code": 2267, "desc": "ممنوع التدخين في جميع أنحاء الفندق" },
+            { "code": 2271, "desc": "جاكوزي" },
+            { "code": 2280, "desc": "يُسمح باصطحاب الحيوانات الأليفة" },
+            { "code": 2304, "desc": "مطعم  (مطاعم)" },
+            { "code": 2307, "desc": "خدمة الغرف" },
+            { "code": 2313, "desc": "ساونا" },
+            { "code": 2332, "desc": "منطقة مخصصة للتدخين" },
+            { "code": 2352, "desc": "حمام سباحة" },
+            { "code": 2359, "desc": "شرفة" },
+            { "code": 2394, "desc": "خدمة الإيقاظ" },
+            { "code": 2397, "desc": "رياضات مائية" },
+            { "code": 2403, "desc": "خدمة واي فاي" },
+            { "code": 2425, "desc": "موقف للسيارات" },
+            { "code": 2463, "desc": "مركز صحة بدنية" },
+            { "code": 2464, "desc": "غرفة بخار" },
+            { "code": 10006, "desc": "خدمة كي الملابس" },
+            { "code": 10009, "desc": "مرافق غرف كبار الشخصيات" },
+            { "code": 10010, "desc": "غرف للعائلات" },
+            { "code": 10013, "desc": "خزانات" },
+            { "code": 10019, "desc": "سبا" },
+            { "code": 10027, "desc": "قنوات تلفزيونية للأطفال" },
+            { "code": 10036, "desc": "حمام سباحه مُدفأ" },
+            { "code": 10038, "desc": "وجبات للأطفال" },
+            { "code": 10042, "desc": "وجبات غداء جاهزة" },
+            { "code": 10045, "desc": "منطقة جلوس" },
+            {
+              "code": 10128,
+              "desc": "مصاعد مناسبة للنزلاء من ذوي القدرات الخاصة"
+            },
+            { "code": 10130, "desc": "مواقف سيارات خاصة" },
+            { "code": 10159, "desc": "مناشف الشاطىء" },
+            { "code": 10160, "desc": "مناشف حمام السباحة" },
+            {
+              "code": 10174,
+              "desc": "غرف تبديل الملابس بالسبا/بصالة اللياقة البدنية"
+            },
+            { "code": 10177, "desc": "أثاث خارجي" },
+            { "code": 10179, "desc": "أوعية طعام الحيوانات الأليفة" },
+            {
+              "code": 10183,
+              "desc": "صالة استراحة مُشتركة / منطقة لمشاهدة التلفاز"
+            },
+            { "code": 10187, "desc": "نبيذ/شمبانيا" },
+            { "code": 10215, "desc": "مكتب استقبال يعمل على مدار 24 ساعة" },
+            { "code": 10231, "desc": "خدمة صف السيارات داخل المُنشأة " }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4174961,
+      "topPick": null,
+      "trustYouReviews": {
+        "score": "8.8",
+        "sourcesCount": 41,
+        "reviewsCount": 2377,
+        "scoreDescription": "ممتاز",
+        "scoreColor": "#129911"
+      },
+      "summary": {
+        "hotelName": "حياة ريجينسي لندن - ذا تشرشل",
+        "lowRate": 3257.69,
+        "highRate": 45342.6,
+        "priority": 1979,
+        "score": 1979,
+        "distance": 2.2213959447259524,
+        "distanceInMeters": 2221.39,
+        "distanceScore": 0.911144,
+        "priorityScore": 0.9895,
+        "propertyType": "فندق سيارات",
+        "pricePerNight": 1628.845,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 2221.39,
+            "descriptionEn": "<span>2.2 km </span>from city center of London",
+            "description": "<span>2.2 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>2.2 كم </span>من مركز مدينة London",
+            "km": 2.2213959447259524,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "30 Portman Square, Westminster Borough, W1H 7BH, (لندن, المملكة المتحدة)",
+        "shortAddress": "",
+        "latitude": 51.51548,
+        "longitude": -0.15704
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4174961/0_1.jpg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "hotelRating",
+          "vendor": "TripAdvisor",
+          "value": "4.5",
+          "imageUrl": "https://carsolizeprod.blob.core.windows.net/images/TrustYou/4_5.png",
+          "reviewsCount": 2239
+        },
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "5",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": null,
+        "propertyTypeId": 12,
+        "chainId": 1735,
+        "amenities": {
+          "roomAmenity": [
+            { "code": 2006, "desc": "غرف متصلة" },
+            { "code": 2007, "desc": "مُكيف هواء" },
+            { "code": 2037, "desc": "رداء الحمام" },
+            { "code": 2125, "desc": "قهوة" },
+            { "code": 2138, "desc": "أسرّة متوفرة" },
+            { "code": 2181, "desc": "هاتف" },
+            { "code": 2197, "desc": "مجفف شعر" },
+            { "code": 2204, "desc": "خدمة تنظيف وتدبير الغرف" },
+            { "code": 2212, "desc": "قاعدة شحن \"آي بود\"" },
+            { "code": 2213, "desc": "مكواة وطاولة كىّ" },
+            { "code": 2250, "desc": "ميني بار" },
+            { "code": 2329, "desc": "نعال" },
+            { "code": 2365, "desc": "مستحضرات العناية الشخصية" },
+            { "code": 2477, "desc": "خزنة" },
+            { "code": 2494, "desc": "عازل للصوت" },
+            { "code": 2511, "desc": "مكتب" },
+            { "code": 2513, "desc": "ماكينة تحضير الشاي والقهوة" },
+            { "code": 2516, "desc": "خزنة" },
+            { "code": 10003, "desc": "طاولة طعام" },
+            { "code": 10006, "desc": "أرضيات باركيه" },
+            { "code": 10007, "desc": "ورق حمّام" },
+            { "code": 10040, "desc": "تلفاز \"إل سي دي\"" },
+            { "code": 10041, "desc": "تلفاز" },
+            { "code": 10052, "desc": "مفروشات أسرّة خالية من مثيرات الحساسية" }
+          ],
+          "propertyAmenity": [
+            { "code": 2021, "desc": "خدمة مجالسة ورعاية الأطفال" },
+            { "code": 2035, "desc": "بارات" },
+            { "code": 2051, "desc": "خدمة الإفطار في الغرفة" },
+            { "code": 2067, "desc": "خدمة تدفئة مركزية" },
+            { "code": 2130, "desc": "خدمة الاستعلامات والإرشاد" },
+            { "code": 2140, "desc": "خدمات الصرافة" },
+            { "code": 2153, "desc": "خدمة التنظيف الجاف" },
+            {
+              "code": 2163,
+              "desc": "خدمة سرعة إنهاء إجراءات الوصول والمغادرة"
+            },
+            {
+              "code": 2166,
+              "desc": "خدمات مناسبة للنزلاء من ذوي القدرات الخاصة"
+            },
+            { "code": 2168, "desc": "فاكس" },
+            { "code": 2174, "desc": "صالة لياقة بدنية" },
+            { "code": 2189, "desc": "حديقة" },
+            { "code": 2228, "desc": "خدمة غسل الملابس" },
+            { "code": 2230, "desc": "مصاعد" },
+            { "code": 2238, "desc": "خدمة تخزين الأمتعة" },
+            { "code": 2239, "desc": "خدمة الغرف" },
+            { "code": 2257, "desc": "صُحف" },
+            { "code": 2267, "desc": "ممنوع التدخين في جميع أنحاء الفندق" },
+            { "code": 2281, "desc": "لا يُسمح باصطحاب الحيوانات الأليفة" },
+            { "code": 2304, "desc": "مطعم  (مطاعم)" },
+            { "code": 2307, "desc": "خدمة الغرف" },
+            { "code": 2332, "desc": "منطقة مخصصة للتدخين" },
+            { "code": 2358, "desc": "ملعب تنس" },
+            { "code": 2359, "desc": "شرفة" },
+            { "code": 2403, "desc": "خدمة واي فاي" },
+            { "code": 10009, "desc": "مرافق غرف كبار الشخصيات" },
+            { "code": 10051, "desc": "مكتب لتنظيم الجولات السياحية" },
+            { "code": 10163, "desc": "خدمة تلميع الأحذية" },
+            { "code": 10215, "desc": "مكتب استقبال يعمل على مدار 24 ساعة" }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4174963,
+      "topPick": null,
+      "trustYouReviews": {
+        "score": "9.3",
+        "sourcesCount": 31,
+        "reviewsCount": 3800,
+        "scoreDescription": "ممتاز",
+        "scoreColor": "#129911"
+      },
+      "summary": {
+        "hotelName": "ذا لانجهام لندن",
+        "lowRate": 3786.66,
+        "highRate": 18653.3,
+        "priority": 1970,
+        "score": 1970,
+        "distance": 1.6179674194811624,
+        "distanceInMeters": 1617.96,
+        "distanceScore": 0.935282,
+        "priorityScore": 0.985,
+        "propertyType": "فندق سيارات",
+        "pricePerNight": 1893.33,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 1617.96,
+            "descriptionEn": "<span>1.6 km </span>from city center of London",
+            "description": "<span>1.6 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>1.6 كم </span>من مركز مدينة London",
+            "km": 1.6179674194811624,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "Portland Place, Westminster Borough, W1B 1JA, (لندن, المملكة المتحدة)",
+        "shortAddress": "Marylebone (also St Marylebone)",
+        "latitude": 51.5178,
+        "longitude": -0.14399
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4174963/asd_1.jpg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "hotelRating",
+          "vendor": "TripAdvisor",
+          "value": "4.5",
+          "imageUrl": "https://carsolizeprod.blob.core.windows.net/images/TrustYou/4_5.png",
+          "reviewsCount": 3767
+        },
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "5",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": 34208,
+        "propertyTypeId": 12,
+        "chainId": 1744,
+        "amenities": {
+          "roomAmenity": [
+            { "code": 2006, "desc": "غرف متصلة" },
+            { "code": 2037, "desc": "رداء الحمام" },
+            { "code": 2038, "desc": "حمام" },
+            { "code": 2121, "desc": "خاصية التحكم في درجات الحرارة" },
+            { "code": 2178, "desc": "زُجاجات مياة" },
+            { "code": 2181, "desc": "هاتف" },
+            { "code": 2197, "desc": "مجفف شعر" },
+            { "code": 2204, "desc": "خدمة تنظيف وتدبير الغرف" },
+            { "code": 2210, "desc": "قنوات فضائية" },
+            { "code": 2213, "desc": "مكواة وطاولة كىّ" },
+            { "code": 2250, "desc": "ميني بار" },
+            { "code": 2298, "desc": "راديو" },
+            { "code": 2323, "desc": "دُش" },
+            { "code": 2329, "desc": "نعال" },
+            { "code": 2365, "desc": "مستحضرات العناية الشخصية" },
+            { "code": 2474, "desc": "مدفأة" },
+            { "code": 2475, "desc": "شاشة مسطحة" },
+            { "code": 2479, "desc": "مفروش بالسجاد" },
+            { "code": 2480, "desc": "غلاية مياه كهربائية" },
+            { "code": 2481, "desc": "خدمة الإيقاظ / منبه" },
+            { "code": 2484, "desc": "مناشف" },
+            { "code": 2489, "desc": "خزانة ملابس" },
+            { "code": 2491, "desc": "أرضيات من البلاط / الرخام" },
+            { "code": 2499, "desc": "العاب الفيديو" },
+            { "code": 2501, "desc": "فاكس" },
+            { "code": 2511, "desc": "مكتب" },
+            { "code": 2513, "desc": "ماكينة تحضير الشاي والقهوة" },
+            { "code": 2519, "desc": "خزنة لاب توب" },
+            { "code": 10037, "desc": "صحف" },
+            { "code": 10038, "desc": "تلفاز \"إل إي دي\"" }
+          ],
+          "propertyAmenity": [
+            { "code": 2007, "desc": "مُكيّف هواء" },
+            { "code": 2021, "desc": "خدمة مجالسة ورعاية الأطفال" },
+            { "code": 2035, "desc": "بارات" },
+            { "code": 2051, "desc": "خدمة الإفطار في الغرفة" },
+            { "code": 2058, "desc": "مركز خدمة رجال الأعمال" },
+            { "code": 2067, "desc": "خدمة تدفئة مركزية" },
+            { "code": 2125, "desc": "قهوة" },
+            { "code": 2130, "desc": "خدمة الاستعلامات والإرشاد" },
+            { "code": 2153, "desc": "خدمة التنظيف الجاف" },
+            {
+              "code": 2163,
+              "desc": "خدمة سرعة إنهاء إجراءات الوصول والمغادرة"
+            },
+            {
+              "code": 2166,
+              "desc": "خدمات مناسبة للنزلاء من ذوي القدرات الخاصة"
+            },
+            { "code": 2168, "desc": "فاكس" },
+            { "code": 2174, "desc": "صالة لياقة بدنية" },
+            { "code": 2193, "desc": "محل هدايا" },
+            { "code": 2207, "desc": "حمام سباحة داخلي" },
+            { "code": 2228, "desc": "خدمة غسل الملابس" },
+            { "code": 2230, "desc": "مصاعد" },
+            { "code": 2238, "desc": "خدمة تخزين الأمتعة" },
+            { "code": 2241, "desc": "مساج" },
+            { "code": 2254, "desc": "طاقم عمل يجيد عدة لغات" },
+            { "code": 2257, "desc": "صُحف" },
+            { "code": 2266, "desc": "غرف لغير المدخنين" },
+            { "code": 2267, "desc": "ممنوع التدخين في جميع أنحاء الفندق" },
+            { "code": 2280, "desc": "يُسمح باصطحاب الحيوانات الأليفة" },
+            { "code": 2304, "desc": "مطعم  (مطاعم)" },
+            { "code": 2307, "desc": "خدمة الغرف" },
+            { "code": 2313, "desc": "ساونا" },
+            { "code": 2352, "desc": "حمام سباحة" },
+            { "code": 2394, "desc": "خدمة الإيقاظ" },
+            { "code": 2401, "desc": "مرافق لمستخدمي الكراسي المتحركة" },
+            { "code": 2403, "desc": "خدمة واي فاي" },
+            { "code": 2421, "desc": "وجبة افطار" },
+            { "code": 2425, "desc": "موقف للسيارات" },
+            { "code": 2463, "desc": "مركز صحة بدنية" },
+            { "code": 2464, "desc": "غرفة بخار" },
+            { "code": 2477, "desc": "صندوق أمانات" },
+            { "code": 10003, "desc": "خدمة التذاكر" },
+            { "code": 10006, "desc": "خدمة كي الملابس" },
+            { "code": 10007, "desc": "خدمة نسخ المستندات" },
+            { "code": 10009, "desc": "مرافق غرف كبار الشخصيات" },
+            { "code": 10019, "desc": "سبا" },
+            { "code": 10027, "desc": "قنوات تلفزيونية للأطفال" },
+            { "code": 10041, "desc": "مرافق الاجتماعات والمناسبات" },
+            { "code": 10163, "desc": "خدمة تلميع الأحذية" },
+            {
+              "code": 10174,
+              "desc": "غرف تبديل الملابس بالسبا/بصالة اللياقة البدنية"
+            },
+            { "code": 10187, "desc": "نبيذ/شمبانيا" },
+            { "code": 10198, "desc": "زجاجة مياة" },
+            { "code": 10208, "desc": "فواكه" },
+            { "code": 10215, "desc": "مكتب استقبال يعمل على مدار 24 ساعة" },
+            { "code": 10216, "desc": "عربات الأطفال" },
+            { "code": 10225, "desc": "كتب و مشغل دى فى دى و موسيقى للأطفال" }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4174965,
+      "topPick": null,
+      "trustYouReviews": {
+        "score": "9.2",
+        "sourcesCount": 37,
+        "reviewsCount": 3487,
+        "scoreDescription": "ممتاز",
+        "scoreColor": "#129911"
+      },
+      "summary": {
+        "hotelName": "ذا ريتز لندن",
+        "lowRate": 4416.43,
+        "highRate": 15134.59,
+        "priority": 1964,
+        "score": 1964,
+        "distance": 0.9571872269479396,
+        "distanceInMeters": 957.18,
+        "distanceScore": 0.961713,
+        "priorityScore": 0.982,
+        "propertyType": "فندق سيارات",
+        "pricePerNight": 2208.215,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 957.18,
+            "descriptionEn": "<span>0.96 km </span>from city center of London",
+            "description": "<span>0.96 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>0.96 كم </span>من مركز مدينة London",
+            "km": 0.9571872269479396,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "(لندن, المملكة المتحدة)  150 Piccadilly, Westminster Borough, , W1J 9BR,",
+        "shortAddress": "St. James's, Westminster",
+        "latitude": 51.50698,
+        "longitude": -0.14156
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4174965/ws.jpg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "hotelRating",
+          "vendor": "TripAdvisor",
+          "value": "4.5",
+          "imageUrl": "https://carsolizeprod.blob.core.windows.net/images/TrustYou/4_5.png",
+          "reviewsCount": 2628
+        },
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "5",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": 34622,
+        "propertyTypeId": 12,
+        "chainId": 1747,
+        "amenities": {
+          "roomAmenity": [
+            { "code": 2006, "desc": "غرف متصلة" },
+            { "code": 2037, "desc": "رداء الحمام" },
+            { "code": 2047, "desc": "مرحاض شطف \"بيديه\"" },
+            { "code": 2154, "desc": "مُشغل \"دي في دي\"" },
+            { "code": 2197, "desc": "مجفف شعر" },
+            { "code": 2204, "desc": "خدمة تنظيف وتدبير الغرف" },
+            { "code": 2210, "desc": "قنوات فضائية" },
+            { "code": 2213, "desc": "مكواة وطاولة كىّ" },
+            { "code": 2250, "desc": "ميني بار" },
+            { "code": 2323, "desc": "دُش" },
+            { "code": 2329, "desc": "نعال" },
+            { "code": 2365, "desc": "مستحضرات العناية الشخصية" },
+            { "code": 2489, "desc": "خزانة ملابس" },
+            { "code": 2498, "desc": "تراس" },
+            { "code": 2511, "desc": "مكتب" },
+            { "code": 2513, "desc": "ماكينة تحضير الشاي والقهوة" },
+            { "code": 2516, "desc": "خزنة" },
+            { "code": 10037, "desc": "صحف" },
+            { "code": 10038, "desc": "تلفاز \"إل إي دي\"" }
+          ],
+          "propertyAmenity": [
+            { "code": 2007, "desc": "مُكيّف هواء" },
+            { "code": 2021, "desc": "خدمة مجالسة ورعاية الأطفال" },
+            { "code": 2034, "desc": "صالون تجميل/ صالون حلاقة" },
+            { "code": 2035, "desc": "بارات" },
+            { "code": 2051, "desc": "خدمة الإفطار في الغرفة" },
+            { "code": 2064, "desc": "كازينو" },
+            { "code": 2130, "desc": "خدمة الاستعلامات والإرشاد" },
+            { "code": 2140, "desc": "خدمات الصرافة" },
+            { "code": 2153, "desc": "خدمة التنظيف الجاف" },
+            {
+              "code": 2163,
+              "desc": "خدمة سرعة إنهاء إجراءات الوصول والمغادرة"
+            },
+            { "code": 2164, "desc": "خدمة تسجيل الوصول والمغادرة الخاصة" },
+            {
+              "code": 2166,
+              "desc": "خدمات مناسبة للنزلاء من ذوي القدرات الخاصة"
+            },
+            { "code": 2168, "desc": "فاكس" },
+            { "code": 2174, "desc": "صالة لياقة بدنية" },
+            { "code": 2193, "desc": "محل هدايا" },
+            { "code": 2212, "desc": "قاعدة شحن \"آي بود\"" },
+            { "code": 2228, "desc": "خدمة غسل الملابس" },
+            { "code": 2230, "desc": "مصاعد" },
+            { "code": 2238, "desc": "خدمة تخزين الأمتعة" },
+            { "code": 2239, "desc": "خدمة الغرف" },
+            { "code": 2241, "desc": "مساج" },
+            { "code": 2254, "desc": "طاقم عمل يجيد عدة لغات" },
+            { "code": 2257, "desc": "صُحف" },
+            { "code": 2266, "desc": "غرف لغير المدخنين" },
+            { "code": 2281, "desc": "لا يُسمح باصطحاب الحيوانات الأليفة" },
+            { "code": 2297, "desc": "خدمة الاتصال بالإنترنت" },
+            { "code": 2304, "desc": "مطعم  (مطاعم)" },
+            { "code": 2307, "desc": "خدمة الغرف" },
+            { "code": 2322, "desc": "محلات تجارية" },
+            { "code": 2324, "desc": "خدمة النقل" },
+            { "code": 2332, "desc": "منطقة مخصصة للتدخين" },
+            { "code": 2359, "desc": "شرفة" },
+            { "code": 2417, "desc": "أنظمة غذائية خاصة" },
+            { "code": 2425, "desc": "موقف للسيارات" },
+            { "code": 2477, "desc": "صندوق أمانات" },
+            { "code": 10003, "desc": "خدمة التذاكر" },
+            { "code": 10006, "desc": "خدمة كي الملابس" },
+            { "code": 10007, "desc": "خدمة نسخ المستندات" },
+            { "code": 10009, "desc": "مرافق غرف كبار الشخصيات" },
+            { "code": 10014, "desc": "خدمة تأجير السيارات" },
+            { "code": 10026, "desc": "جناح العرائس" },
+            { "code": 10041, "desc": "مرافق الاجتماعات والمناسبات" },
+            { "code": 10051, "desc": "مكتب لتنظيم الجولات السياحية" },
+            { "code": 10052, "desc": "خدمة كي البناطيل" },
+            { "code": 10072, "desc": "ألعاب لوحية / ألغاز" },
+            { "code": 10163, "desc": "خدمة تلميع الأحذية" },
+            { "code": 10215, "desc": "مكتب استقبال يعمل على مدار 24 ساعة" }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4174967,
+      "topPick": null,
+      "trustYouReviews": {
+        "score": "8.5",
+        "sourcesCount": 40,
+        "reviewsCount": 3571,
+        "scoreDescription": "ممتاز",
+        "scoreColor": "#129911"
+      },
+      "summary": {
+        "hotelName": "لندن هيلتون أون بارك لين",
+        "lowRate": 2545.24,
+        "highRate": 32479.02,
+        "priority": 1998,
+        "score": 1998,
+        "distance": 1.5851456210246886,
+        "distanceInMeters": 1585.14,
+        "distanceScore": 0.936594,
+        "priorityScore": 0.999,
+        "propertyType": "الفندق",
+        "pricePerNight": 1272.62,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 1585.14,
+            "descriptionEn": "<span>1.6 km </span>from city center of London",
+            "description": "<span>1.6 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>1.6 كم </span>من مركز مدينة London",
+            "km": 1.5851456210246886,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "22 Park Lane, Westminster Borough, W1K 1BE, (لندن, المملكة المتحدة)",
+        "shortAddress": "Mayfair, Westminster",
+        "latitude": 51.50554,
+        "longitude": -0.15045
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4174967/0_1.jpg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "hotelRating",
+          "vendor": "TripAdvisor",
+          "value": "4",
+          "imageUrl": "https://carsolizeprod.blob.core.windows.net/images/TrustYou/4.png",
+          "reviewsCount": 3214
+        },
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "5",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": 5249,
+        "propertyTypeId": 1,
+        "chainId": 1726,
+        "amenities": {
+          "roomAmenity": [
+            { "code": 2006, "desc": "غرف متصلة" },
+            { "code": 2007, "desc": "مُكيف هواء" },
+            { "code": 2038, "desc": "حمام" },
+            { "code": 2121, "desc": "خاصية التحكم في درجات الحرارة" },
+            { "code": 2125, "desc": "قهوة" },
+            { "code": 2138, "desc": "أسرّة متوفرة" },
+            { "code": 2181, "desc": "هاتف" },
+            { "code": 2197, "desc": "مجفف شعر" },
+            { "code": 2204, "desc": "خدمة تنظيف وتدبير الغرف" },
+            { "code": 2210, "desc": "قنوات فضائية" },
+            { "code": 2213, "desc": "مكواة وطاولة كىّ" },
+            { "code": 2250, "desc": "ميني بار" },
+            { "code": 2365, "desc": "مستحضرات العناية الشخصية" },
+            { "code": 2477, "desc": "خزنة" },
+            { "code": 2511, "desc": "مكتب" },
+            { "code": 2513, "desc": "ماكينة تحضير الشاي والقهوة" },
+            { "code": 2516, "desc": "خزنة" },
+            { "code": 10003, "desc": "طاولة طعام" },
+            { "code": 10006, "desc": "أرضيات باركيه" },
+            { "code": 10007, "desc": "ورق حمّام" },
+            { "code": 10010, "desc": "خدمة غسل الملابس" },
+            { "code": 10012, "desc": "خدمة الأفلام نظير قيمة مدفوعة" },
+            { "code": 10021, "desc": "مشغل الـ MP3" },
+            { "code": 10037, "desc": "صحف" },
+            { "code": 10038, "desc": "تلفاز \"إل إي دي\"" },
+            { "code": 10041, "desc": "تلفاز" },
+            { "code": 10045, "desc": "سرير قابل للطي" },
+            { "code": 10046, "desc": "مفروشات أسرّة فاخرة" },
+            { "code": 10050, "desc": "ستائر حاجبة لضوء الشمس" },
+            { "code": 10052, "desc": "مفروشات أسرّة خالية من مثيرات الحساسية" }
+          ],
+          "propertyAmenity": [
+            { "code": 2020, "desc": "ماكينة صراف آلي" },
+            { "code": 2021, "desc": "خدمة مجالسة ورعاية الأطفال" },
+            { "code": 2032, "desc": "بار / وجبات خفيفة / مقهى" },
+            { "code": 2034, "desc": "صالون تجميل/ صالون حلاقة" },
+            { "code": 2035, "desc": "بارات" },
+            { "code": 2051, "desc": "خدمة الإفطار في الغرفة" },
+            { "code": 2067, "desc": "خدمة تدفئة مركزية" },
+            { "code": 2130, "desc": "خدمة الاستعلامات والإرشاد" },
+            { "code": 2140, "desc": "خدمات الصرافة" },
+            { "code": 2153, "desc": "خدمة التنظيف الجاف" },
+            {
+              "code": 2163,
+              "desc": "خدمة سرعة إنهاء إجراءات الوصول والمغادرة"
+            },
+            {
+              "code": 2166,
+              "desc": "خدمات مناسبة للنزلاء من ذوي القدرات الخاصة"
+            },
+            { "code": 2168, "desc": "فاكس" },
+            { "code": 2174, "desc": "صالة لياقة بدنية" },
+            { "code": 2193, "desc": "محل هدايا" },
+            { "code": 2228, "desc": "خدمة غسل الملابس" },
+            { "code": 2230, "desc": "مصاعد" },
+            { "code": 2238, "desc": "خدمة تخزين الأمتعة" },
+            { "code": 2241, "desc": "مساج" },
+            { "code": 2254, "desc": "طاقم عمل يجيد عدة لغات" },
+            { "code": 2257, "desc": "صُحف" },
+            { "code": 2258, "desc": "نادٍ ليلي" },
+            { "code": 2266, "desc": "غرف لغير المدخنين" },
+            { "code": 2280, "desc": "يُسمح باصطحاب الحيوانات الأليفة" },
+            { "code": 2304, "desc": "مطعم  (مطاعم)" },
+            { "code": 2307, "desc": "خدمة الغرف" },
+            { "code": 2313, "desc": "ساونا" },
+            { "code": 2322, "desc": "محلات تجارية" },
+            { "code": 2332, "desc": "منطقة مخصصة للتدخين" },
+            { "code": 2417, "desc": "أنظمة غذائية خاصة" },
+            { "code": 2463, "desc": "مركز صحة بدنية" },
+            { "code": 2469, "desc": "خدمة النقل من وإلى المطار" },
+            { "code": 10009, "desc": "مرافق غرف كبار الشخصيات" },
+            { "code": 10014, "desc": "خدمة تأجير السيارات" },
+            { "code": 10019, "desc": "سبا" },
+            { "code": 10055, "desc": "طاولات بلياردو" },
+            { "code": 10163, "desc": "خدمة تلميع الأحذية" },
+            { "code": 10175, "desc": "حمام تركي" },
+            { "code": 10187, "desc": "نبيذ/شمبانيا" },
+            { "code": 10198, "desc": "زجاجة مياة" },
+            { "code": 10208, "desc": "فواكه" },
+            { "code": 10215, "desc": "مكتب استقبال يعمل على مدار 24 ساعة" }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4174973,
+      "topPick": null,
+      "trustYouReviews": {
+        "score": "7.9",
+        "sourcesCount": 42,
+        "reviewsCount": 1958,
+        "scoreDescription": "جيد جدا",
+        "scoreColor": "#71BC4C"
+      },
+      "summary": {
+        "hotelName": "لو ميريديان بيكاديللي",
+        "lowRate": 3013.79,
+        "highRate": 8313.42,
+        "priority": 1967,
+        "score": 1967,
+        "distance": 0.6388515196434589,
+        "distanceInMeters": 638.85,
+        "distanceScore": 0.974446,
+        "priorityScore": 0.9835,
+        "propertyType": "الفندق",
+        "pricePerNight": 1506.895,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 638.85,
+            "descriptionEn": "<span>0.64 km </span>from city center of London",
+            "description": "<span>0.64 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>0.64 كم </span>من مركز مدينة London",
+            "km": 0.6388515196434589,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "(لندن, المملكة المتحدة)  21 Piccadilly, Westminster Borough, London, W1J 0BH",
+        "shortAddress": "Mayfair, سانت جيمس",
+        "latitude": 51.50948,
+        "longitude": -0.13632
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4174973/1_20.jpg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "5",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": 5249,
+        "propertyTypeId": 1,
+        "chainId": 811,
+        "amenities": {
+          "roomAmenity": [
+            { "code": 2001, "desc": "خدمة الغرف" },
+            { "code": 2006, "desc": "غرف متصلة" },
+            { "code": 2007, "desc": "مُكيف هواء" },
+            { "code": 2037, "desc": "رداء الحمام" },
+            { "code": 2038, "desc": "حمام" },
+            { "code": 2125, "desc": "قهوة" },
+            { "code": 2138, "desc": "أسرّة متوفرة" },
+            { "code": 2185, "desc": "خدمة واي فاي مجانية" },
+            { "code": 2197, "desc": "مجفف شعر" },
+            { "code": 2204, "desc": "خدمة تنظيف وتدبير الغرف" },
+            { "code": 2213, "desc": "مكواة وطاولة كىّ" },
+            { "code": 2250, "desc": "ميني بار" },
+            { "code": 2302, "desc": "ثلاجة" },
+            { "code": 2323, "desc": "دُش" },
+            { "code": 2329, "desc": "نعال" },
+            { "code": 2335, "desc": "سرير أريكة" },
+            { "code": 2383, "desc": "تلفاز" },
+            { "code": 2387, "desc": "فيديو" }
+          ],
+          "propertyAmenity": [
+            { "code": 2031, "desc": "بار / صالة استراحة" },
+            { "code": 2034, "desc": "صالون تجميل/ صالون حلاقة" },
+            { "code": 2044, "desc": "حامل الحقائب" },
+            { "code": 2058, "desc": "مركز خدمة رجال الأعمال" },
+            { "code": 2130, "desc": "خدمة الاستعلامات والإرشاد" },
+            { "code": 2144, "desc": "مكتب" },
+            { "code": 2153, "desc": "خدمة التنظيف الجاف" },
+            {
+              "code": 2163,
+              "desc": "خدمة سرعة إنهاء إجراءات الوصول والمغادرة"
+            },
+            { "code": 2182, "desc": "صُحف مجانية" },
+            { "code": 2199, "desc": "منتجع صحي" },
+            { "code": 2207, "desc": "حمام سباحة داخلي" },
+            { "code": 2228, "desc": "خدمة غسل الملابس" },
+            { "code": 2230, "desc": "مصاعد" },
+            { "code": 2238, "desc": "خدمة تخزين الأمتعة" },
+            { "code": 2244, "desc": "غرفة اجتماعات" },
+            { "code": 2254, "desc": "طاقم عمل يجيد عدة لغات" },
+            { "code": 2269, "desc": "عدد الطوابق - أقل من 10" },
+            { "code": 2304, "desc": "مطعم  (مطاعم)" },
+            { "code": 2310, "desc": "خزينة" },
+            { "code": 2348, "desc": "نظير تكلفة إضافية" },
+            { "code": 2382, "desc": "حمام تركي" },
+            { "code": 2453, "desc": "نادي صحي" }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4174975,
+      "topPick": null,
+      "trustYouReviews": {
+        "score": "7.5",
+        "sourcesCount": 39,
+        "reviewsCount": 2570,
+        "scoreDescription": "جيد جدا",
+        "scoreColor": "#71BC4C"
+      },
+      "summary": {
+        "hotelName": "فندق كورت هاوس لندن",
+        "lowRate": 2070.85,
+        "highRate": 6044.87,
+        "priority": 1845,
+        "score": 1845,
+        "distance": 1.1257689253065062,
+        "distanceInMeters": 1125.76,
+        "distanceScore": 0.95497,
+        "priorityScore": 0.9225,
+        "propertyType": "الفندق",
+        "pricePerNight": 1035.425,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 1125.76,
+            "descriptionEn": "<span>1.1 km </span>from city center of London",
+            "description": "<span>1.1 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>1.1 كم </span>من مركز مدينة London",
+            "km": 1.1257689253065062,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "19-21 Gt. Marlborough St, Westminster Borough, W1F 7HL, (لندن, المملكة المتحدة)",
+        "shortAddress": "Covent Garden, سوهو",
+        "latitude": 51.51436,
+        "longitude": -0.13947
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4174975/a.jpg",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "5",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": 5259,
+        "propertyTypeId": 1,
+        "chainId": 425,
+        "amenities": {
+          "roomAmenity": [
+            { "code": 2037, "desc": "رداء الحمام" },
+            { "code": 2038, "desc": "حمام" },
+            { "code": 2047, "desc": "مرحاض شطف \"بيديه\"" },
+            { "code": 2138, "desc": "أسرّة متوفرة" },
+            { "code": 2181, "desc": "هاتف" },
+            { "code": 2197, "desc": "مجفف شعر" },
+            { "code": 2204, "desc": "خدمة تنظيف وتدبير الغرف" },
+            { "code": 2213, "desc": "مكواة وطاولة كىّ" },
+            { "code": 2250, "desc": "ميني بار" },
+            { "code": 2323, "desc": "دُش" },
+            { "code": 2365, "desc": "مستحضرات العناية الشخصية" },
+            { "code": 2511, "desc": "مكتب" }
+          ],
+          "propertyAmenity": [
+            { "code": 2007, "desc": "مُكيّف هواء" },
+            { "code": 2035, "desc": "بارات" },
+            { "code": 2125, "desc": "قهوة" },
+            { "code": 2130, "desc": "خدمة الاستعلامات والإرشاد" },
+            {
+              "code": 2166,
+              "desc": "خدمات مناسبة للنزلاء من ذوي القدرات الخاصة"
+            },
+            { "code": 2207, "desc": "حمام سباحة داخلي" },
+            { "code": 2254, "desc": "طاقم عمل يجيد عدة لغات" },
+            { "code": 2266, "desc": "غرف لغير المدخنين" },
+            { "code": 2281, "desc": "لا يُسمح باصطحاب الحيوانات الأليفة" },
+            { "code": 2304, "desc": "مطعم  (مطاعم)" },
+            { "code": 2313, "desc": "ساونا" },
+            { "code": 2352, "desc": "حمام سباحة" },
+            { "code": 2403, "desc": "خدمة واي فاي" },
+            { "code": 2421, "desc": "وجبة افطار" },
+            { "code": 2477, "desc": "صندوق أمانات" },
+            { "code": 10006, "desc": "خدمة كي الملابس" },
+            { "code": 10019, "desc": "سبا" },
+            { "code": 10041, "desc": "مرافق الاجتماعات والمناسبات" },
+            { "code": 10215, "desc": "مكتب استقبال يعمل على مدار 24 ساعة" }
+          ]
+        }
+      }
+    },
+    {
+      "hotelId": 4174978,
+      "topPick": null,
+      "trustYouReviews": {
+        "score": "8.7",
+        "sourcesCount": 24,
+        "reviewsCount": 18880,
+        "scoreDescription": "ممتاز",
+        "scoreColor": "#129911"
+      },
+      "summary": {
+        "hotelName": "بارك بلازا وستمنستر بريدج لندن",
+        "lowRate": 2020.55,
+        "highRate": 5899.72,
+        "priority": 1990,
+        "score": 1990,
+        "distance": 1.0460206682750004,
+        "distanceInMeters": 1046.02,
+        "distanceScore": 0.958159,
+        "priorityScore": 0.995,
+        "propertyType": "الفندق",
+        "pricePerNight": 1010.275,
+        "distanceDetails": [
+          {
+            "from": "City center",
+            "meters": 1046.02,
+            "descriptionEn": "<span>1.0 km </span>from city center of London",
+            "description": "<span>1.0 كم </span>من مركز مدينة London",
+            "descriptionAr": "<span>1.0 كم </span>من مركز مدينة London",
+            "km": 1.0460206682750004,
+            "sourceKey": "locality"
+          }
+        ]
+      },
+      "location": {
+        "address": "Westminster Bridge Road, Lambeth, SE1 7UT, (لندن, المملكة المتحدة)",
+        "shortAddress": "Westminster, لامبيث",
+        "latitude": 51.50096,
+        "longitude": -0.11669
+      },
+      "image": [
+        {
+          "type": "thumbnail",
+          "url": "https://s3-eu-west-1.amazonaws.com/tjwlhotelcms/hotel_cms_data_live/hotel_images/4174978/a.png",
+          "height": null,
+          "width": null,
+          "description": null
+        }
+      ],
+      "rating": [
+        {
+          "type": "hotelRating",
+          "vendor": "TripAdvisor",
+          "value": "4.5",
+          "imageUrl": "https://carsolizeprod.blob.core.windows.net/images/TrustYou/4_5.png",
+          "reviewsCount": 19038
+        },
+        {
+          "type": "starRating",
+          "vendor": "AHS",
+          "value": "4",
+          "imageUrl": null,
+          "reviewsCount": null
+        }
+      ],
+      "meta": {
+        "districtId": 5312,
+        "propertyTypeId": 1,
+        "chainId": 1729,
+        "amenities": {
+          "roomAmenity": [
+            { "code": 2007, "desc": "مُكيف هواء" },
+            { "code": 2037, "desc": "رداء الحمام" },
+            { "code": 2038, "desc": "حمام" },
+            { "code": 2125, "desc": "قهوة" },
+            { "code": 2138, "desc": "أسرّة متوفرة" },
+            { "code": 2181, "desc": "هاتف" },
+            { "code": 2197, "desc": "مجفف شعر" },
+            { "code": 2204, "desc": "خدمة تنظيف وتدبير الغرف" },
+            { "code": 2250, "desc": "ميني بار" },
+            { "code": 2323, "desc": "دُش" },
+            { "code": 2365, "desc": "مستحضرات العناية الشخصية" },
+            { "code": 2488, "desc": "غرف متصلة" },
+            { "code": 2511, "desc": "مكتب" },
+            { "code": 2513, "desc": "ماكينة تحضير الشاي والقهوة" },
+            { "code": 2516, "desc": "خزنة" },
+            { "code": 10006, "desc": "أرضيات باركيه" },
+            { "code": 10007, "desc": "ورق حمّام" },
+            { "code": 10019, "desc": "سرير إضافي" },
+            { "code": 10038, "desc": "تلفاز \"إل إي دي\"" },
+            { "code": 10041, "desc": "تلفاز" }
+          ],
+          "propertyAmenity": [
+            { "code": 2020, "desc": "ماكينة صراف آلي" },
+            { "code": 2032, "desc": "بار / وجبات خفيفة / مقهى" },
+            { "code": 2035, "desc": "بارات" },
+            { "code": 2051, "desc": "خدمة الإفطار في الغرفة" },
+            { "code": 2058, "desc": "مركز خدمة رجال الأعمال" },
+            { "code": 2067, "desc": "خدمة تدفئة مركزية" },
+            { "code": 2130, "desc": "خدمة الاستعلامات والإرشاد" },
+            { "code": 2140, "desc": "خدمات الصرافة" },
+            { "code": 2153, "desc": "خدمة التنظيف الجاف" },
+            {
+              "code": 2163,
+              "desc": "خدمة سرعة إنهاء إجراءات الوصول والمغادرة"
+            },
+            {
+              "code": 2166,
+              "desc": "خدمات مناسبة للنزلاء من ذوي القدرات الخاصة"
+            },
+            { "code": 2168, "desc": "فاكس" },
+            { "code": 2174, "desc": "صالة لياقة بدنية" },
+            { "code": 2207, "desc": "حمام سباحة داخلي" },
+            { "code": 2228, "desc": "خدمة غسل الملابس" },
+            { "code": 2230, "desc": "مصاعد" },
+            { "code": 2238, "desc": "خدمة تخزين الأمتعة" },
+            { "code": 2239, "desc": "خدمة الغرف" },
+            { "code": 2241, "desc": "مساج" },
+            { "code": 2254, "desc": "طاقم عمل يجيد عدة لغات" },
+            { "code": 2257, "desc": "صُحف" },
+            { "code": 2266, "desc": "غرف لغير المدخنين" },
+            { "code": 2267, "desc": "ممنوع التدخين في جميع أنحاء الفندق" },
+            { "code": 2281, "desc": "لا يُسمح باصطحاب الحيوانات الأليفة" },
+            { "code": 2304, "desc": "مطعم  (مطاعم)" },
+            { "code": 2307, "desc": "خدمة الغرف" },
+            { "code": 2313, "desc": "ساونا" },
+            { "code": 2332, "desc": "منطقة مخصصة للتدخين" },
+            { "code": 2337, "desc": "غرف عازلة للصوت" },
+            { "code": 2352, "desc": "حمام سباحة" },
+            { "code": 2394, "desc": "خدمة الإيقاظ" },
+            { "code": 2401, "desc": "مرافق لمستخدمي الكراسي المتحركة" },
+            { "code": 2403, "desc": "خدمة واي فاي" },
+            { "code": 2421, "desc": "وجبة افطار" },
+            { "code": 10009, "desc": "مرافق غرف كبار الشخصيات" },
+            { "code": 10010, "desc": "غرف للعائلات" },
+            { "code": 10014, "desc": "خدمة تأجير السيارات" },
+            { "code": 10026, "desc": "جناح العرائس" },
+            { "code": 10178, "desc": "خدمات العناية بالقدم (باديكير)" },
+            { "code": 10203, "desc": "خدمات الميكاج والتجميل" },
+            { "code": 10213, "desc": "مكواة وطاولة كيّ" },
+            { "code": 10215, "desc": "مكتب استقبال يعمل على مدار 24 ساعة" },
+            { "code": 10224, "desc": "خزنة" },
+            { "code": 10234, "desc": " موقف صف سيارات عام" }
+          ]
+        }
+      }
+    }
+  ],
+  "icons": [
+    "play",
+    "sound",
+    "image",
+    "chevron-right",
+    "chevron-left",
+    "chevron-up",
+    "chevron-down",
+    "arrow-up",
+    "arrow-down",
+    "arrow-right",
+    "arrow-left",
+    "home",
+    "phone",
+    "pin",
+    "envelope",
+    "date",
+    "search",
+    "share",
+    "folder",
+    "user",
+    "upload",
+    "download",
+    "link",
+    "trash",
+    "close",
+    "calendar",
+    "check",
+    "crop",
+    "minimize",
+    "maxmize",
+    "star",
+    "star-half",
+    "star-filled",
+    "facebook",
+    "twitter",
+    "googlePlus",
+    "plus",
+    "youtube",
+    "Instagram"
+  ]
+}

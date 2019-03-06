@@ -1,0 +1,40 @@
+body {
+  padding-top: 3 * $space;
+}
+
+.main-header {
+  height: 3 * $space;
+  padding: 0 $space;
+  background: $wh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  @include shadow(2);
+  display: flex;
+  justify-content: center;
+  &__container {
+    flex-basis: 900px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  &__logo {
+    max-height: $space;
+    img {
+      max-height: $space;
+      max-width: 100%;
+    }
+  }
+
+  &__nav {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    &-item {
+      & + & {
+        margin-#{$left}: $space;
+      }
+    }
+  }
+}

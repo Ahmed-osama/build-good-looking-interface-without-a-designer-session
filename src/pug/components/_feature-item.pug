@@ -1,0 +1,17 @@
+-
+    //Data
+    i = i || 0 
+    feature = feature || {};
+    feature.title = feature.title || "Feature Title goes here";
+    feature.abstract = feature.abstract || false;
+    feature.icon = feature.icon || false  
+    feature.modifier = feature.modifier || ""
+    
+.feature-item(class=feature.modifier)
+    .feature-item__img
+        -if(feature.icon)
+            -var icon = {case:feature.icon, addClass:"feature-item__imgIcon "}
+            include ../shared/_icon.pug
+    h4.feature-item__title #{feature.title}
+    -if(feature.abstract)
+        p.feature-item__abstract #{feature.abstract}
